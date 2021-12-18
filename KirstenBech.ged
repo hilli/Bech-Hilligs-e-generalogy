@@ -1,0 +1,4620 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 9.0
+2 NAME Legacy (R)
+2 CORP Millennia Corp.
+3 ADDR PO Box 9410
+4 CONT Surprise, AZ 85374
+1 DEST Gedcom5.5.1
+1 DATE 12 Jul 2021
+1 SUBM @S0@
+1 FILE E:\dokumenter\Legacy Family Tree\Data\KirstenBech.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @S0@ SUBM
+1 NAME Ikke givet
+0 @I1@ INDI
+1 NAME Kirsten Anna Melly Horne /Bech/
+2 GIVN Kirsten Anna Melly Horne
+2 SURN Bech
+1 SEX F
+1 BIRT
+2 DATE 2 Sep 1964
+2 PLAC Kristrup, Sønderhald, Randers
+1 _UID 63DE704D1D154555B42D399B62CA1D571FDC
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 13:53
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Johan Niels /Bech/
+2 GIVN Johan Niels
+2 SURN Bech
+1 SEX M
+1 BIRT
+2 DATE 25 Sep 1937
+2 PLAC Kristrupvej 18, Kristrup, Sønderhald, Randers
+1 CHR
+2 DATE 26 Dec 1937
+2 PLAC Kristrup, Sønderhald, Randers
+2 NOTE @CI2@
+1 _UID B0AFDE121BF7489FA3A43E99352AC649D4C3
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 13:59
+1 FAMS @F1@
+1 FAMC @F2@
+0 @CI2@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=165856#
+1 CONC 165856,27863668.
+1 CONT
+0 @I3@ INDI
+1 NAME Linda Margaret Catherine Horne /Whiting/
+2 GIVN Linda Margaret Catherine Horne
+2 SURN Whiting
+1 SEX F
+1 BIRT
+2 DATE 8 Jan 1941
+2 PLAC Montreal, Canada
+1 _UID 40FC75DA4F244400932641EFD30AB7A26171
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 13:58
+1 FAMS @F1@
+0 @I4@ INDI
+1 NAME Hugo Louis Christian Otto Mikling /Bech/
+2 GIVN Hugo Louis Christian Otto Mikling
+2 SURN Bech
+2 NPFX Glasmaler
+1 SEX M
+1 BIRT
+2 DATE 30 Oct 1902
+2 PLAC Norsgade 29, Aarhus Domsogn, Hasle, Aarhus
+1 CHR
+2 DATE 14 Dec 1902
+2 PLAC Aarhus Domsogn, Hasle, Aarhus
+1 DEAT
+2 PLAC Randers, Støvring, Randers
+1 _UID E49D8BC2375A4604AD492039B32E7789D94A
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:04
+1 FAMS @F24@
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I5@ INDI
+1 NAME Johan Nielsen /Bech/
+2 GIVN Johan Nielsen
+2 SURN Bech
+2 NPFX Glasmester, Fabrikant
+1 SEX M
+1 BIRT
+2 DATE 22 Oct 1874
+2 PLAC Aarhus Domsogn, Hasle, Aarhus
+1 CHR
+2 DATE 7 Mar 1875
+2 PLAC Aarhus Domsogn, Hasle, Aarhus
+2 NOTE @CI5@
+1 DEAT
+2 DATE 18 Apr 1962
+2 PLAC Kristrup, Sønderhald, Randers
+1 _UID 3F2261BB85C6447B992C5AC9D736DCFA5229
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 00:01
+1 FAMS @F3@
+1 FAMC @F35@
+1 NOTE @NI5@
+0 @NI5@ NOTE
+1 CONC Census 1906: Åby, Hasle, Aarhus: https://www.myheritage.dk/
+1 CONC research/collection-10253/1906-danmark-folketaelling?itemId
+1 CONC =1343672-&groupId=7e47ce0876faea1ac4bbf9ae671527f4&action=s
+1 CONC howRecord&recordTitle=Magr+Louis+Christian+Otto+Mittius+Bec
+1 CONC h.
+0 @CI5@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=383628#
+1 CONC 383628,74062761
+0 @I6@ INDI
+1 NAME Anderssine Kirstine /Andersen/
+2 GIVN Anderssine Kirstine
+2 SURN Andersen
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1872
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 CHR
+2 DATE 29 Sep 1872
+2 PLAC Sjørslev, Lysgaard, Viborg
+2 NOTE @CI6@
+1 DEAT Y
+1 _UID 0171D6F2CFCC4A038FF7287E68F31B27EB99
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:39
+1 FAMS @F3@
+1 FAMC @F5@
+0 @CI6@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=363976#
+1 CONC 363976,70600689.
+0 @I7@ INDI
+1 NAME Melly Cecilie Kjær /Sørensen/
+2 GIVN Melly Cecilie Kjær
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 2 Oct 1911
+2 PLAC Stationsbyen, Sønder Onsild, Onsild, Randers
+1 CHR
+2 DATE 26 Dec 1911
+2 PLAC Sønder Onsild, Onsild, Randers
+2 NOTE @CI7@
+1 DEAT Y
+1 _UID E475DFA88D9449CB8CEAFD902F6480ACD7E2
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 14:16
+1 FAMS @F2@
+1 FAMC @F4@
+0 @CI7@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=170052#
+1 CONC 170052,28548600.
+0 @I8@ INDI
+1 NAME Niels Karl /Sørensen/
+2 GIVN Niels Karl
+2 SURN Sørensen
+2 NPFX Bager
+1 NAME Niels Karl Kjær /Sørensen/
+2 GIVN Niels Karl Kjær
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 21 Nov 1884
+2 PLAC Vesterbølle, Rinds, Viborg
+1 CHR
+2 DATE 28 Dec 1884
+2 PLAC Vesterbølle, Rinds, Viborg
+2 NOTE @CI8@
+1 DEAT Y
+1 _UID 5229F334B2654095B2BA3450E0A10DEFFBBB
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:30
+1 FAMS @F4@
+1 FAMS @F8@
+1 FAMC @F10@
+1 NOTE @NI8@
+0 @NI8@ NOTE
+1 CONC Census 1921:
+1 CONT Carl Sørensen - 21 Oct 1884 - Vesterbølle
+1 CONT Sørine Sørensen - 22 Apr 1886 - Ullits
+1 CONT Irena Sørensen - 1 Apr 1908 - Aarhus
+1 CONT Anna Sørensen - 15 Aug 1909 - Hobro
+1 CONT Melly Sørensen - 2 Sep 1910 - Hobro
+1 CONT Mitha (or Metha) Sørensen - 6 Jul 1914 - Copenhagen
+1 CONT Else Sørensen - 6 Aug 1916 - Lemvig
+1 CONT Erik Sørensen - 30 Nov 1918 - Lemvig
+1 CONT
+1 CONT Census 1925:
+1 CONT Overhoved Niels Carl Sørensen 40 - 21-11-1884
+1 CONT Hustru Kristine Sørensen 34 - 21-12-1890
+1 CONT Datter Melly Sørensen 14 - 2-10-1911
+1 CONT Datter Metha Sørensen 11 - 6-8-1914
+1 CONT Datter Elsa Sørensen 8 - 4-9-1917
+1 CONT Søn Erik Sørensen 6 - 30-11-1918
+1 CONT Datter Grethe Sørensen 4 - 20-6-1921
+1 CONT
+1 CONT
+1 CONT Census 1940:
+1 CONT Overhoved Niels Carl Sørensen 21. nov. 1884
+1 CONT Hustru Kirstine Sørensen 22. feb. 1890
+1 CONT Child Karen Kær Sørensen 10. maj 1927 - Hvorup
+1 CONT Child Ellen Kær Sørensen 27. april 1928 - Hvorup
+1 CONT Child Carl Kær Sørensen 16. feb. 1931 - Vamdrup
+1 CONT Child Aage Kær Sørensen 16. jan. 1932 - Vamdrup
+1 CONT
+1 CONT At the burial of his first wife he is mentioned as Niels Ca
+1 CONC rl Kjær Sørensen!
+0 @CI8@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361837#
+1 CONC 361837,70554092
+0 @I9@ INDI
+1 NAME Sørine /Jensen/
+2 GIVN Sørine
+2 SURN Jensen
+1 SEX F
+1 BIRT
+2 DATE 22 Apr 1886
+2 PLAC Ullits, Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 2 May 1886
+2 PLAC Fovlum, Gislum, Aalborg
+2 NOTE @CI9@
+1 DEAT
+2 DATE 27 Apr 1922
+2 PLAC Amtssygehuset, Lemvig, Skodborg, Ringkøbing
+1 BURI
+2 DATE 2 May 1922
+2 PLAC Lemvig, Skodborg, Ringkøbing
+2 NOTE @XI9@
+1 _UID D87AB3B2B2584E9098846520B1EA08A18443
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:34
+1 FAMS @F4@
+1 FAMC @F9@
+0 @CI9@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359681#
+1 CONC 359681,70509705
+0 @XI9@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=166052#
+1 CONC 166052,27894320
+0 @I10@ INDI
+1 NAME Aase Kirstine /Bech/
+2 GIVN Aase Kirstine
+2 SURN Bech
+1 SEX F
+1 BIRT
+2 DATE 2 Jun 1929
+2 PLAC Gammel Stationsvej 2, Vorup, Galten, Randers
+1 CHR
+2 DATE 28 Jul 1929
+2 PLAC Vorup, Galten, Randers
+1 DEAT Y
+1 _UID 0260AD091DF5466B99367B8E363EA3C58F94
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 14:18
+1 FAMC @F2@
+0 @I11@ INDI
+1 NAME Thelsa Ada Mary /Bech/
+2 GIVN Thelsa Ada Mary
+2 SURN Bech
+1 SEX F
+1 BIRT
+2 DATE 4 Feb 1899
+2 PLAC Aarhus Domsogn, Hasle, Aarhus
+1 DEAT Y
+1 _UID BFA558A01F2B458581FB0E09A0CD34EE92DA
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:11
+1 FAMS @F6@
+1 FAMC @F3@
+0 @I12@ INDI
+1 NAME Laust Christian /Andersen/
+2 GIVN Laust Christian
+2 SURN Andersen
+2 NPFX Indsidder
+1 NAME Anders Christian /Overfeldborg/
+2 GIVN Anders Christian
+2 SURN Overfeldborg
+1 SEX M
+1 BIRT
+2 DATE 14 Sep 1840
+2 PLAC Haderup, Ginding, Ringkøbing
+1 CHR
+2 DATE 27 Sep 1840
+2 PLAC Haderup, Ginding, Ringkøbing
+2 NOTE @CI12@
+1 DEAT
+2 DATE Aft 1880
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 CONF
+2 DATE 15 Apr 1855
+2 PLAC Haderup, Ginding, Ringkøbing
+2 NOTE https://www.danishfamilysearch.dk/churchbook/sogn1243/churc
+3 CONC hlisting135790/opslag14722993
+3 CONT
+3 CONT and
+3 CONT
+3 CONT https://www.sa.dk/ao-soegesider/da/billedviser?bsid=386915#
+3 CONC 386915,74146958
+1 _UID 6B611C04FC0E4762A15336165A60D054BD38
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:57
+1 FAMS @F5@
+1 FAMC @F45@
+0 @CI12@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=398682#
+1 CONC 398682,74464098
+1 CONT
+1 CONT Born out of wedlock.
+1 CONT The mother is the girl Johanne Christensdatter, impregnate
+1 CONC d while serving church singer and teacher Thr. Frølund in H
+1 CONC odsager, but at the time of the christening staying with he
+1 CONC r father, tenant farmer Christen Christensen Salling in Ove
+1 CONC r Feldborg.
+1 CONT As father was named bachelor Anders Pedersen Salling, bor
+1 CONC n in Sevel Parish, serving half time at the named church si
+1 CONC nger and teacher Th. Frølund in Hodsager Parish, and the re
+1 CONC st of the time various men in Aulum Parish.
+0 @I13@ INDI
+1 NAME Kjesten Maria /Pedersen/
+2 GIVN Kjesten Maria
+2 SURN Pedersen
+1 SEX F
+1 BIRT
+2 DATE 20 Feb 1843
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 CHR
+2 DATE 17 Apr 1843
+2 PLAC Sjørslev, Lysgaard, Viborg
+2 NOTE @CI13@
+1 DEAT
+2 PLAC Avnsbjerg, Sjørslev, Lysgaard, Viborg
+1 _UID E7CA8F064E3849DA9890F9C75A60601607C1
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:15
+1 FAMS @F5@
+1 FAMC @F48@
+0 @CI13@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=391163#
+1 CONC 391163,74274157
+0 @I14@ INDI
+1 NAME Christian Frederik Bøgh /Pedersen/
+2 GIVN Christian Frederik Bøgh
+2 SURN Pedersen
+1 SEX M
+1 BIRT
+2 DATE 26 Aug 1894
+2 PLAC Ulstrupbro, Hvorslev, Houlbjerg, Viborg
+1 CHR
+2 DATE 4 Nov 1894
+2 PLAC Hvorslev, Houlbjerg, Viborg
+2 NOTE @CI14@
+1 DEAT Y
+1 _UID 4EF53316A435484DA04965B39EE1992D40F5
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:02
+1 FAMS @F6@
+1 FAMC @F7@
+0 @CI14@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=164884#
+1 CONC 164884,27695698
+0 @I15@ INDI
+1 NAME Christian Jensen /Pedersen/
+2 GIVN Christian Jensen
+2 SURN Pedersen
+2 NPFX Urmager, Afholdsvært
+1 SEX M
+1 BIRT
+2 DATE 20 Jan 1868
+2 PLAC Svendborg, Sunds, Svendborg
+1 DEAT Y
+1 _UID 3D59947369614F5E8D0BBA8C7037766574F4
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:06
+1 FAMS @F7@
+0 @I16@ INDI
+1 NAME Marie Elisabeth /Petersen/
+2 GIVN Marie Elisabeth
+2 SURN Petersen
+1 SEX F
+1 BIRT
+2 DATE 17 Jul 1868
+2 PLAC Svendborg, Sunds, Svendborg
+1 DEAT Y
+1 _UID EB5D474295F74FF79BADDB63DB86FA098D5C
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:05
+1 FAMS @F7@
+1 NOTE @NI16@
+0 @NI16@ NOTE
+1 CONC FT 1901, Hvorslev, Houlbjerg, Viborg:
+1 CONT https://www.myheritage.dk/research/collection-10187/1901-da
+1 CONC nmark-folketaelling?s=134432921&itemId=2561490-&groupId=5d7
+1 CONC 799ba52ee5b280d1d49ce92878cc1&action=showRecord&recordTitle
+1 CONC =Kristian+Frederick+B%C3%B6gh+Pedersen
+1 CONT
+0 @I17@ INDI
+1 NAME Anna Ingeborg Bøgh /Pedersen/
+2 GIVN Anna Ingeborg Bøgh
+2 SURN Pedersen
+1 SEX F
+1 BIRT
+2 DATE 18 Mar 1896
+2 PLAC Ulstrupbro, Hvorslev, Houlbjerg, Viborg
+1 DEAT Y
+1 _UID DC31C5DD51E34736B1931BB92994B2AB9212
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:06
+1 FAMC @F7@
+0 @I18@ INDI
+1 NAME Lilli Elisabeth Bøgh /Pedersen/
+2 GIVN Lilli Elisabeth Bøgh
+2 SURN Pedersen
+1 SEX F
+1 BIRT
+2 DATE 26 Jan 1898
+2 PLAC Ulstrupbro, Hvorslev, Houlbjerg, Viborg
+1 DEAT Y
+1 _UID 2AEE5F0EE6CC4F1DA97580C96DA541E44192
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:06
+1 FAMC @F7@
+0 @I19@ INDI
+1 NAME Kristine Kristensen /Møller/
+2 GIVN Kristine Kristensen
+2 SURN Møller
+1 SEX F
+1 BIRT
+2 DATE 21 Dec 1890
+2 PLAC Vindum, Middelsom, Viborg
+1 CHR
+2 DATE 13 Jan 1891
+2 PLAC Hjemme
+2 NOTE @CI19@
+1 DEAT Y
+1 _UID 650811055EE2446EB86A2477F5630E962E1B
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:33
+1 FAMS @F32@
+1 FAMS @F8@
+1 FAMC @F31@
+1 NOTE @NI19@
+0 @NI19@ NOTE
+1 CONC 1910-1911: Kristine Møller is working as house maid, Ryvang
+1 CONC s Alle 74, Larsen. <https://www.myheritage.dk/research/coll
+1 CONC ection-10727/danmark-kobenhavns-politis-registerblade-1890-
+1 CONC 1923?itemId=1062563-&groupId=4ca73f2aa198323cc09be5c97e967c
+1 CONC ba&action=showRecord&recordTitle=Kirstine+M%C3%B8ller>
+1 CONT
+1 CONT Census 1916 Viborg, Riddergade: Kristine Møller is trainin
+1 CONC g to become a nurse at the local hospital for mentally reta
+1 CONC rded people. <https://www.myheritage.dk/research/collection
+1 CONC -10196/1916-danmark-folketaelling?itemId=572010-&groupId=03
+1 CONC cfd8b9b04b5cdb608e9826e8e7d553&action=showRecord&recordTitl
+1 CONC e=Kirstine+M%C3%B8ller>
+0 @CI19@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=363500#
+1 CONC 363500,70591184
+0 @I20@ INDI
+1 NAME Jens Cæsar /Jensen/
+2 GIVN Jens Cæsar
+2 SURN Jensen
+2 NPFX Gårdejer
+1 SEX M
+1 BIRT
+2 DATE 8 Mar 1846
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 11 Mar 1846
+2 PLAC Hjemme
+2 NOTE @CI20@
+1 DEAT Y
+1 _UID F0C198A5CA644161A5F55B10EE89DD6D847E
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:29
+1 FAMS @F9@
+1 FAMC @F11@
+1 NOTE @NI20@
+0 @NI20@ NOTE
+1 CONC Census 1855 Fovlum:
+1 CONT 25Jens JensenMand381817 FovlumGiftHusfader
+1 CONT 26Ane JensdatterKvinde421813 ØsterbølleGiftHans kone
+1 CONT 27Jens Cæsar Jensen Mand91846 FovlumUgiftDeres barn
+1 CONT 28Jens Christian Jensen Mand 81847 FovlumUgiftDeres barn
+1 CONT 29Sidsel Kirstine Jensen Kvinde 31852 FovlumUgiftDeres barn
+1 CONT 30Christen JensenMand11854 FovlumUgiftDeres barn
+1 CONT 31Jens Eilersen Mand              791776 StrandbyGifthusfar
+1 CONC ens far, der af ham forsørges
+1 CONT 32Maren JensdatterKvinde781777 FarsøGifthusfarens mor, de
+1 CONC r af ham forsørges
+1 CONT
+1 CONT Census 1860 Fovlum:
+1 CONT 28Jens JensenMand431817GiftHusfader
+1 CONT 29Ane JensdatterKvinde471813GiftHans kone
+1 CONT 30Jens Cæsar JensenMand141846UgiftDeres barn
+1 CONT 31Zidsel Kirstine JensenKvinde81852UgiftDeres barn
+1 CONT 32Christen JensenMand61854UgiftDeres barn
+1 CONT 33Maren JensdatterKvinde831777Widowhusfaders moder, der a
+1 CONC f ham forsørges
+1 CONT
+1 CONT Census 1880 Fovlum:
+1 CONT 79Jens Cæsar JensenMand331847GiftGaardmand
+1 CONT 80Johanne Marie SørensenKvinde221858GiftHans hustru
+1 CONT 81Jens JensenMand621818Gifthans Forældre
+1 CONT 82Ane JensenKvinde661814Gifthans Forældre
+1 CONT
+1 CONT Census 1911 Fovlum:
+1 CONT 130Jens Cæsar JensenMand641846GiftHusfader Landbruger
+1 CONT 131Johanne Marie JensenKvinde531857GiftHusmoder
+1 CONT 132Jens Peter Jensen                Mand291881UgiftSøn
+0 @CI20@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359653#
+1 CONC 359653,70509345
+0 @I21@ INDI
+1 NAME Johanne Marie /Sørensen/
+2 GIVN Johanne Marie
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 14 Jun 1857
+2 PLAC Klattrup Mark, Fjelsø, Rinds, Viborg
+1 CHR
+2 DATE 20 Sep 1857
+2 PLAC Fjelsø, Rinds, Viborg
+2 NOTE @CI21@
+1 DEAT Y
+1 _UID 4E2B8783760B4527ABDFE7AF72047C61E3F3
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:29
+1 FAMS @F9@
+1 FAMC @F49@
+0 @CI21@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361893#
+1 CONC 361893,70555362
+0 @I22@ INDI
+1 NAME Jakob /Sørensen/
+2 GIVN Jakob
+2 SURN Sørensen
+2 NPFX Husmand
+1 SEX M
+1 BIRT
+2 DATE 21 Apr 1850
+2 PLAC Vester Fuglsang Hede, Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 24 Apr 1850
+2 PLAC Hjemme
+2 NOTE @CI22@
+1 DEAT
+2 PLAC Svingelbjerg, Vesterbølle, Rinds, Viborg
+1 _UID BEC4CD7252A342BBA72D5899D3FC8C9B6ECF
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:54
+1 FAMS @F10@
+1 FAMC @F33@
+0 @CI22@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553184
+0 @I23@ INDI
+1 NAME Ane /Hansen/
+2 GIVN Ane
+2 SURN Hansen
+1 SEX F
+1 BIRT
+2 DATE 10 Nov 1853
+2 PLAC Aarestrup, Hornum, Aalborg
+1 CHR
+2 DATE 20 Nov 1853
+2 PLAC Hjemme
+2 NOTE @CI23@
+1 DEAT
+2 DATE 5 Jun 1889
+2 PLAC Vesterbølle, Rinds, Viborg
+1 BURI
+2 DATE 9 Jun 1889
+2 PLAC Vesterbølle, Rinds, Viborg
+2 NOTE @XI23@
+1 _UID B47546BE720D47C5B8D4F30E2CFEA33E50E1
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:21
+1 FAMS @F10@
+1 FAMC @F34@
+0 @CI23@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357377#
+1 CONC 357377,70460227
+0 @XI23@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361841#
+1 CONC 361841,70554142
+1 CONT Drowned in a bog in Svingelbjerg.
+0 @I24@ INDI
+1 NAME Jens Peter /Jensen/
+2 GIVN Jens Peter
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 1881
+2 PLAC Fovlum, Gislum, Aalborg
+1 DEAT Y
+1 _UID 8BFF91BB63DD4FF48FF6AEC2F24C8FC9E47E
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:51
+1 FAMC @F9@
+0 @I25@ INDI
+1 NAME Ane Martine /Jensen/
+2 GIVN Ane Martine
+2 SURN Jensen
+1 SEX F
+1 BIRT
+2 DATE 1883
+2 PLAC Fovlum, Gislum, Aalborg
+1 DEAT Y
+1 _UID CC2598EFBB034EDDB18692F5987E73751DB0
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:51
+1 FAMC @F9@
+0 @I26@ INDI
+1 NAME Jens /Jensen/
+2 GIVN Jens
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1817
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 17 Mar 1817
+2 PLAC Hjemme
+2 NOTE @CI26@
+1 DEAT
+2 DATE 10 Mar 1881
+2 PLAC Fovlum, Gislum, Aalborg
+1 BURI
+2 DATE 18 Mar 1881
+2 PLAC Fovlum, Gislum, Aalborg
+2 NOTE @XI26@
+1 _UID 51BFCDC2FA0F4A0FAD3D983E767F523F472A
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:23
+1 FAMS @F11@
+1 FAMC @F12@
+0 @CI26@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359660#
+1 CONC 359660,70509431
+0 @XI26@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359675#
+1 CONC 359675,70509641.
+1 CONT Død af alderdomssvaghed.
+0 @I27@ INDI
+1 NAME Anne /Jensdatter/
+2 GIVN Anne
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 17 Oct 1813
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 18 Oct 1813
+2 PLAC Hjemme
+2 NOTE @CI27@
+1 DEAT
+2 DATE 21 May 1888
+2 PLAC Fovlum, Gislum, Aalborg
+1 BURI
+2 DATE 27 May 1888
+2 PLAC Fovlum, Gislum, Aalborg
+2 NOTE @XI27@
+1 _UID F029C2F87DA8476B9D0C9E0DE6F727434577
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:25
+1 FAMS @F11@
+1 FAMC @F18@
+0 @CI27@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361774#
+1 CONC 361774,70552875
+0 @XI27@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359686#
+1 CONC 359686,70509735
+0 @I28@ INDI
+1 NAME Jens Christian /Jensen/
+2 GIVN Jens Christian
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 1848
+2 PLAC Fovlum, Gislum, Aalborg
+1 DEAT Y
+1 _UID D515616C2F6848B0B452ACF3A9F45D280D08
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:55
+1 FAMC @F11@
+0 @I29@ INDI
+1 NAME Sidsel Kirstine /Jensen/
+2 GIVN Sidsel Kirstine
+2 SURN Jensen
+1 SEX F
+1 BIRT
+2 DATE 1852
+2 PLAC Fovlum, Gislum, Aalborg
+1 DEAT Y
+1 _UID 801D30D69FCD49829474ABF56239F7D6EA6E
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:55
+1 FAMC @F11@
+0 @I30@ INDI
+1 NAME Christen /Jensen/
+2 GIVN Christen
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 1854
+2 PLAC Fovlum, Gislum, Aalborg
+1 DEAT Y
+1 _UID 22A70DC051AB46FAB5971D05C555A8393B36
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:56
+1 FAMC @F11@
+0 @I31@ INDI
+1 NAME Jens /Eilersen/
+2 GIVN Jens
+2 SURN Eilersen
+1 SEX M
+1 BIRT
+2 DATE Sep 1777
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 CHR
+2 DATE 28 Sep 1777
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @CI31@
+1 DEAT
+2 DATE 2 Dec 1851
+2 PLAC Fovlum, Gislum, Aalborg
+1 BURI
+2 DATE 10 Dec 1851
+2 PLAC Fovlum, Gislum, Aalborg
+2 NOTE @XI31@
+1 _UID 5DEC92C219FF4F0A8619E2842CFFBDC7C2B8
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 15:49
+1 FAMS @F12@
+1 FAMC @F13@
+0 @CI31@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=169705#
+1 CONC 169705,28495314
+1 CONT
+1 CONT Born out of wedlock.
+1 CONT The alledged father is a married farmer.
+0 @XI31@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359666#
+1 CONC 359666,70509513.
+1 CONT Died of old age.
+0 @I32@ INDI
+1 NAME Maren /Jensdatter/
+2 GIVN Maren
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 1777
+2 PLAC Farsø, Gislum, Aalborg
+1 DEAT
+2 DATE 30 Mar 1862
+2 PLAC Fovlum, Gislum, Aalborg
+1 BURI
+2 DATE 3 Apr 1862
+2 PLAC Fovlum, Gislum, Aalborg
+2 NOTE @XI32@
+1 _UID 64A69717F14B4119BCF559B4788D99BF69FC
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 15:47
+1 FAMS @F12@
+0 @XI32@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359667#
+1 CONC 359667,70509518.
+0 @I33@ INDI
+1 NAME Maren /Jensen/
+2 GIVN Maren
+2 SURN Jensen
+1 SEX F
+1 BIRT
+2 DATE 1849
+2 PLAC Fovlum, Gislum, Aalborg
+1 DEAT Y
+1 _UID 2BB2201D2FA94D3FAA9E13FDD7ADDE7AB2A5
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:59
+1 FAMC @F11@
+0 @I34@ INDI
+1 NAME Kirsten Marie /Jensdatter/
+2 GIVN Kirsten Marie
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 29 Sep 1815
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 12 Nov 1815
+2 PLAC Fovlum, Gislum, Aalborg
+2 NOTE @CI34@
+1 DEAT Y
+1 _UID F622443A3FB446C18B3A163559F89620A750
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 15:57
+1 FAMC @F12@
+0 @CI34@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359660#
+1 CONC 359660,70509430.
+0 @I35@ INDI
+1 NAME Eiler /Madsen/
+2 GIVN Eiler
+2 SURN Madsen
+2 NPFX Gårdmand
+1 SEX M
+1 BIRT
+2 DATE 1747
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 DEAT
+2 DATE 12 Feb 1829
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 BURI
+2 DATE 22 Feb 1829
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @XI35@
+1 _UID C39C777BDBD647829443D1129EC1C544ED21
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 13:56
+1 FAMS @F13@
+1 NOTE @NI35@
+0 @NI35@ NOTE
+1 CONC Census 1801 Strandby:
+1 CONT  233Eyler MadsenMand551746GiftHusbonde Bonde og Gaardbeboer
+1 CONT 234Karen NielsdatterKvinde611740GiftHans kone
+1 CONT 235Mads EylersenMand291772UgiftDeres barn
+1 CONT 236Birthe MarieKvinde231778UgiftDeres barn
+0 @XI35@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359518#
+1 CONC 359518,70506373
+0 @I36@ INDI
+1 NAME Maren Kirstine /Jensdatter/
+2 GIVN Maren Kirstine
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE Apr 1748
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 CHR
+2 DATE 21 Apr 1748
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @CI36@
+1 DEAT
+2 DATE 3 Oct 1829
+2 PLAC Ertebølle, Strandby, Gislum, Aalborg
+1 BURI
+2 DATE 11 Oct 1829
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @XI36@
+1 _UID 36A2A1E5660E44EFB6CB305FF2D9DD78357B
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 15:13
+1 FAMS @F13@
+1 FAMS @F15@
+1 FAMS @F16@
+1 FAMC @F14@
+1 NOTE @NI36@
+0 @NI36@ NOTE
+1 CONC Census 1787 Strandby
+1 CONT 63Maren Kirsten JensdatterKvinde391748GiftHans kone
+1 CONT 64IngerKvinde21785UgiftDeres datter
+1 CONT 65Maren AndersdatterKvinde81779Ugifthendes datter avlet ude
+1 CONC n ægteskab
+1 CONT 66Else ThomasdatterKvinde771710Enke(mand)hans moder nyder a
+1 CONC lmisse
+1 CONT
+1 CONT Census 1801 Strandby
+1 CONT 92Maren Kirstine JensdatterKvinde521749Enke(mand)Kone
+0 @CI36@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=169704#
+1 CONC 169704,28495273.
+1 CONT Dom qvasimod. - left-hand side 1/4 down.
+0 @XI36@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359523#
+1 CONC 359523,70506538.
+0 @I37@ INDI
+1 NAME Jens /Sørensen/
+2 GIVN Jens
+2 SURN Sørensen
+2 NPFX Skrædder
+1 SEX M
+1 BIRT
+2 DATE 1709
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 DEAT
+2 DATE Feb 1794
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 BURI
+2 DATE 9 Feb 1794
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @XI37@
+1 _UID 33F8D7C37D294699997451E0C60F0C4DB601
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:57
+1 FAMS @F14@
+0 @XI37@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=169705#
+1 CONC 169705,28495401
+1 CONT Top right.
+0 @I38@ INDI
+1 NAME Anders /Pedersen/
+2 GIVN Anders
+2 SURN Pedersen
+2 NPFX Gårdmand
+1 SEX M
+1 _UID 1872B882438245499987EF10C9F525132C98
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:26
+1 FAMS @F15@
+0 @I39@ INDI
+1 NAME Maren /Andersdatter/
+2 GIVN Maren
+2 SURN Andersdatter
+1 SEX F
+1 BIRT
+2 DATE Sep 1779
+2 PLAC Riisgaarde, Strandby, Gislum, Aalborg
+1 CHR
+2 DATE 19 Sep 1779
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @CI39@
+1 DEAT Y
+1 _UID 7DA23E438A354B1BBA018ADBE27066F693AD
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:26
+1 FAMC @F15@
+0 @CI39@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=169705#
+1 CONC 169705,28495318.
+1 CONT Born out of wedlock.
+0 @I40@ INDI
+1 NAME Thomas /Nielsen/
+2 GIVN Thomas
+2 SURN Nielsen
+1 SEX M
+1 BIRT
+2 DATE 1738
+2 PLAC Strandby, Gislum, Aalborg
+1 DEAT
+2 PLAC Strandby, Gislum, Aalborg
+1 _UID EED4A9D4DAC44E209891753F01777E0F2D42
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 14:11
+1 FAMS @F16@
+1 FAMC @F17@
+0 @I41@ INDI
+1 NAME Inger /Thomasdatter/
+2 GIVN Inger
+2 SURN Thomasdatter
+1 SEX F
+1 BIRT
+2 DATE 1786
+2 PLAC Grønnerup, Strandby, Gislum, Aalborg
+1 DEAT
+2 DATE Nov 1799
+2 PLAC Ertebølle, Strandby, Gislum, Aalborg
+1 BURI
+2 DATE 3 Nov 1799
+2 PLAC Strandby, Gislum, Aalborg
+2 NOTE @XI41@
+1 _UID D45C3BDF61DA4514AB3A2E6670B0A28EA723
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 15:11
+1 FAMC @F16@
+0 @XI41@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=169705#
+1 CONC 169705,28495426.
+0 @I42@ INDI
+1 NAME Else /Thomasdatter/
+2 GIVN Else
+2 SURN Thomasdatter
+1 SEX F
+1 BIRT
+2 DATE 1710
+2 PLAC Ertebølle, Strandby, Gislum, Aalborg
+2 NOTE @BI42@
+1 DEAT Y
+1 _UID C8AA2AEDE2B04B938A8B2A2A6459A93E0622
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 14:15
+1 FAMS @F17@
+0 @BI42@ NOTE
+1 CONC Census 1787 Strandby
+1 CONT 63Maren Kirsten JensdatterKvinde39 1748GiftHans kone
+1 CONT 64IngerKvinde   21785UgiftDeres datter
+1 CONT 65         Maren Andersdatter Kvinde 81779Ugifthendes datte
+1 CONC r avlet uden ægteskab
+1 CONT 66Else Thomasdatter Kvinde 771710Widowhans moder nyder almi
+1 CONC sse
+1 CONT
+1 CONT This census is missing the husband. He is Thomas Nielsen, b
+1 CONC orn 1738 in Ertebølle.
+0 @I43@ INDI
+1 NAME Karen /Jensdatter/
+2 GIVN Karen
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 3 Jul 1819
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 4 Jul 1819
+2 PLAC Hjemme
+2 NOTE @CI43@
+1 DEAT
+2 DATE 1819
+2 PLAC Fovlum, Gislum, Aalborg
+1 BURI
+2 DATE 1819
+2 PLAC Fovlum, Gislum, Aalborg
+1 _UID 715788F5B3C34D8490679E933814AA34DEFD
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:01
+1 FAMC @F12@
+0 @CI43@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359660#
+1 CONC 359660,70509432
+0 @I44@ INDI
+1 NAME Maren /Jensdatter/
+2 GIVN Maren
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 15 Mar 1821
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 16 Mar 1821
+2 PLAC Hjemme
+2 NOTE @CI44@
+1 DEAT Y
+1 _UID BB3570FAC2F14D4C9E1D2E87A8F2BCF86416
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:02
+1 FAMC @F12@
+0 @CI44@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359660#
+1 CONC 359660,70509433
+0 @I45@ INDI
+1 NAME Karen /Jensdatter/
+2 GIVN Karen
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 14 Mar 1813
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHR
+2 DATE 14 Mar 1813
+2 PLAC Hjemme
+2 NOTE @CI45@
+1 DEAT Y
+1 _UID E676C2D1A9F640A29AA810C6E70B07F17295
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:04
+1 FAMC @F12@
+0 @CI45@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359660#
+1 CONC 359660,70509428
+0 @I46@ INDI
+1 NAME Jens /Christensen/
+2 GIVN Jens
+2 SURN Christensen
+2 NPFX Gårdmand
+1 NAME Jens Christensen /Skinnerup/
+2 GIVN Jens Christensen
+2 SURN Skinnerup
+1 SEX M
+1 BIRT
+2 DATE Jun 1782
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT
+2 DATE 12 Dec 1844
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 22 Dec 1844
+2 PLAC Østerbølle, Rinds, Viborg
+1 _UID 1EAE9C0C3A8C4441BD77DBBA2C18AAD046EC
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:50
+1 FAMS @F18@
+1 FAMS @F20@
+1 FAMC @F21@
+0 @I47@ INDI
+1 NAME Sidsel /Christensdatter/
+2 GIVN Sidsel
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1794
+2 PLAC Bygum, Østerbølle, Rinds, Viborg
+1 DEAT
+2 DATE 29 Feb 1824
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 3 Mar 1824
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @XI47@
+1 _UID 5B8FCE6C89004736B1499BD775C83F879976
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:19
+1 FAMS @F18@
+1 FAMC @F19@
+0 @XI47@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=174188#
+1 CONC 174188,29305182
+1 CONT Bottom right.
+0 @I48@ INDI
+1 NAME Christen /Christensdatter/
+2 GIVN Christen
+2 SURN Christensdatter
+1 SEX M
+1 BIRT
+2 DATE 1767
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 7E056174C90A40CFA7621C653F0B02809026
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:33
+1 FAMS @F19@
+0 @I49@ INDI
+1 NAME Maren /Christensdatter/
+2 GIVN Maren
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1762
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 8E247D1938CE40E0974BF7B3C73DFB8C8554
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:33
+1 FAMS @F19@
+0 @I50@ INDI
+1 NAME Christen /Chrstensen/
+2 GIVN Christen
+2 SURN Chrstensen
+1 SEX M
+1 BIRT
+2 DATE 1786
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 14363A1DA62A4AE9A1FB0CED366711907747
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:33
+1 FAMC @F19@
+0 @I51@ INDI
+1 NAME Christen /Christensen/
+2 GIVN Christen
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1788
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 391E323D8ABF468794A07AB9FBB76F369AED
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:36
+1 FAMC @F19@
+1 NOTE @NI51@
+0 @NI51@ NOTE
+1 CONC This is no mistake - there are two living sons by the sam
+1 CONC e name. According to the naming traditions you had to nam
+1 CONC e your first son after his father's father, and the secon
+1 CONC d son after his mother's father!
+0 @I52@ INDI
+1 NAME Frederik /Christensen/
+2 GIVN Frederik
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1792
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID DE4555F239F744BABBB189DCB6233D1E9D60
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:36
+1 FAMC @F19@
+0 @I53@ INDI
+1 NAME Søren /Christensen/
+2 GIVN Søren
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1797
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 85119803CBC944D091844A450F2FB2FE6B49
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:36
+1 FAMC @F19@
+0 @I54@ INDI
+1 NAME Jens /Christensen/
+2 GIVN Jens
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID A3B1DDC5C8A34F90B18C03331EABACF0185B
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:37
+1 FAMC @F19@
+0 @I55@ INDI
+1 NAME Chresten /Jensen/
+2 GIVN Chresten
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 11 Apr 1817
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 13 Apr 1817
+2 PLAC Hjemme
+2 NOTE @CI55@
+1 DEAT Y
+1 _UID 71DBE24047FF44408999B531884F357CC84F
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:49
+1 FAMC @F18@
+0 @CI55@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361774#
+1 CONC 361774,70552877
+0 @I56@ INDI
+1 NAME Chresten /Jensen/
+2 GIVN Chresten
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 22 Feb 1815
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 26 Feb 1815
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @CI56@
+1 DEAT
+2 DATE 1815
+2 PLAC Østerbølle, Rinds, Viborg
+1 _UID 12AAAEC0D5034AF6B04E5955870C2801AAF3
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:56
+1 FAMC @F18@
+0 @CI56@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361774#
+1 CONC 361774,70552876
+0 @I57@ INDI
+1 NAME Kirsten /Christensdatter/
+2 GIVN Kirsten
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 3 May 1796
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 3 May 1796
+2 PLAC Hjemme
+2 NOTE @CI57@
+1 DEAT
+2 DATE 16 Mar 1869
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 25 Mar 1869
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @XI57@
+1 _UID 102B63D33480482AA5F2EB3B5D5AF6595A16
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:06
+1 FAMS @F20@
+1 FAMC @F22@
+0 @CI57@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=174187#
+1 CONC 174187,29305014.
+1 CONT Top left.
+0 @XI57@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361819#
+1 CONC 361819,70553852
+0 @I58@ INDI
+1 NAME Christen /Jensen/
+2 GIVN Christen
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 1740
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID F43BAE2B298B48F7931655DE443761C77A90
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:04
+1 FAMS @F21@
+0 @I59@ INDI
+1 NAME Anne /Jensdatter/
+2 GIVN Anne
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 1748
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID BBC0145162FF4B738616DEE0088CB0EB8818
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:04
+1 FAMS @F21@
+0 @I60@ INDI
+1 NAME Mariane /Christensdatter/
+2 GIVN Mariane
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1775
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 96FB9CB179EC4CD1984343E2291D90DC1243
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:07
+1 FAMC @F21@
+0 @I61@ INDI
+1 NAME Birthe Marie /Christensdatter/
+2 GIVN Birthe Marie
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1785
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID E3387C8656B24925AC0AAFCD6C9A7CEC3306
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:05
+1 FAMC @F21@
+0 @I62@ INDI
+1 NAME Karen /Christensdatter/
+2 GIVN Karen
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1791
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID AC4B6646D5EA4C8DB74403C8A8A6306AE928
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:05
+1 FAMC @F21@
+0 @I63@ INDI
+1 NAME Cisel /Jensdatter/
+2 GIVN Cisel
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 12 Aug 1825
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 14 Aug 1825
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @CI63@
+1 DEAT
+2 DATE 15 Oct 1825
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 23 Oct 1825
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @XI63@
+1 _UID 04EEB1C6EE4F4206BE86A046A48EB01610AD
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:53
+1 FAMC @F20@
+0 @CI63@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553153
+0 @XI63@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361797#
+1 CONC 361797,70553276
+0 @I64@ INDI
+1 NAME Christen /Jensen/
+2 GIVN Christen
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 10 Oct 1827
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 13 Oct 1827
+2 PLAC Hjemme
+2 NOTE @CI64@
+1 DEAT Y
+1 _UID 97277E679A5F4A31A20964EEA51D320E166C
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:27
+1 FAMC @F20@
+0 @CI64@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553156
+0 @I65@ INDI
+1 NAME Zidsel /Jensdatter/
+2 GIVN Zidsel
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 19 Feb 1831
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 20 Feb 1831
+2 PLAC Hjemme
+2 NOTE @CI65@
+1 DEAT
+2 DATE 25 Dec 1835
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 29 Dec 1835
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @XI65@
+1 _UID 3638F1A5D30F4A2BB621E55FD4D7C53E2494
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:55
+1 FAMC @F20@
+0 @CI65@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553158
+0 @XI65@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361797#
+1 CONC 361797,70553278
+0 @I66@ INDI
+1 NAME Knud /Jensen/
+2 GIVN Knud
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 28 Feb 1830
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 7 Mar 1830
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @CI66@
+1 DEAT
+2 DATE 22 Mar 1830
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 28 Mar 1830
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @XI66@
+1 _UID BA9223CD15D54E7E9B285A841B3785970170
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:57
+1 FAMC @F20@
+0 @CI66@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553159
+0 @XI66@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361797#
+1 CONC 361797,70553279
+0 @I67@ INDI
+1 NAME Ane Marie /Jensdatter/
+2 GIVN Ane Marie
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 13 Jul 1835
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 14 Jul 1835
+2 PLAC Hjemme
+2 NOTE @CI67@
+1 DEAT Y
+1 _UID B67D59A65144453EB032CAA65CAAEB18A5CB
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:34
+1 FAMC @F20@
+0 @CI67@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553163,
+1 CONT The father is stated as Jens Christensen Skinnerup.
+0 @I68@ INDI
+1 NAME Zidsel /Jensdatter/
+2 GIVN Zidsel
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 5 May 1837
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 28 May 1837
+2 PLAC Hjemme
+2 NOTE @CI68@
+1 DEAT Y
+1 _UID 856E8B9AE9934CDBBE1A1F9800955EDA17C3
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:36
+1 FAMC @F20@
+0 @CI68@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553166.
+1 CONT The father again Jens Christensen Skinnerup.
+0 @I69@ INDI
+1 NAME Jens Christian /Jensen/
+2 GIVN Jens Christian
+2 SURN Jensen
+1 SEX M
+1 BIRT
+2 DATE 16 Feb 1840
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 23 Feb 1840
+2 PLAC Hjemme
+2 NOTE @CI69@
+1 DEAT Y
+1 _UID 026BA0D4F71F4333ADDE72E2F758FECF687A
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:38
+1 FAMC @F20@
+0 @CI69@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553171.
+1 CONT Father Jens Christensen Skinnerup.
+0 @I70@ INDI
+1 NAME Kirsten Marie /Jensdatter/
+2 GIVN Kirsten Marie
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 28 Mar 1821
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 28 Mar 1821
+2 PLAC Hjemme
+2 NOTE @CI70@
+1 DEAT
+2 DATE 22 Sep 1823
+2 PLAC Østerbølle, Rinds, Viborg
+1 BURI
+2 DATE 5 Oct 1823
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @XI70@
+1 _UID 730B96008A7342658AA1E8A7EBA72B38672C
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:51
+1 FAMC @F18@
+0 @CI70@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553149
+0 @XI70@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361797#
+1 CONC 361797,70553275
+0 @I71@ INDI
+1 NAME Kirsten Marie /Jensdatter/
+2 GIVN Kirsten Marie
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 26 Sep 1823
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 5 Oct 1823
+2 PLAC Hjemme
+2 NOTE @CI71@
+1 DEAT Y
+1 _UID FC21D6027DD24452BDBAD54D0D94D64B354D
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:46
+1 FAMC @F18@
+0 @CI71@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361793#
+1 CONC 361793,70553152
+0 @I72@ INDI
+1 NAME Christen /Knudsen/
+2 GIVN Christen
+2 SURN Knudsen
+2 NPFX Gårdmand
+1 SEX M
+1 BIRT
+2 DATE 1765
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID F61B327C0B984B97AD1BD29D4A92A1352DBD
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:13
+1 FAMS @F22@
+1 FAMC @F23@
+0 @I73@ INDI
+1 NAME Anne Marie /Pedersdatter/
+2 GIVN Anne Marie
+2 SURN Pedersdatter
+1 SEX F
+1 BIRT
+2 DATE 1764
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 81ECA677B500438E9C8479BF286D7442B339
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:09
+1 FAMS @F22@
+0 @I74@ INDI
+1 NAME Knud /Christensen/
+2 GIVN Knud
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1789
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 79D35C0CC4D9469798FD09FAABE9D56C9B5F
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:10
+1 FAMC @F22@
+0 @I75@ INDI
+1 NAME Peder /Christensen/
+2 GIVN Peder
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1792
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID C9C4387C72D4421286C29406084B4DBB187C
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:10
+1 FAMC @F22@
+0 @I76@ INDI
+1 NAME Inger /Christensdatter/
+2 GIVN Inger
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1794
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 3007466CF57B48D481A52E24BF683E98EA5D
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:10
+1 FAMC @F22@
+0 @I77@ INDI
+1 NAME Mads /Christensen/
+2 GIVN Mads
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 9D936F9433054DC999969DF99A1DA59D3FC4
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:11
+1 FAMC @F22@
+0 @I78@ INDI
+1 NAME Knud /Madsen/
+2 GIVN Knud
+2 SURN Madsen
+1 SEX M
+1 BIRT
+2 DATE 1728
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 437D843A422147309BB17D8408075B849346
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:14
+1 FAMS @F23@
+0 @I79@ INDI
+1 NAME Kirsten /Thomasdatter/
+2 GIVN Kirsten
+2 SURN Thomasdatter
+1 SEX F
+1 BIRT
+2 DATE 1728
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 9E8546E4CC554635855B2E08748DEBB29DC3
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:14
+1 FAMS @F23@
+0 @I80@ INDI
+1 NAME Thomas /Knudsen/
+2 GIVN Thomas
+2 SURN Knudsen
+1 SEX M
+1 BIRT
+2 DATE 1771
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 1BBA8F4E46E94CC89259FC781E9805112043
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:14
+1 FAMC @F23@
+1 NOTE @NI80@
+0 @NI80@ NOTE
+1 CONC Blind.
+0 @I81@ INDI
+1 NAME Kirsten /Knudsdatter/
+2 GIVN Kirsten
+2 SURN Knudsdatter
+1 SEX F
+1 BIRT
+2 DATE 1761
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 507CB1789AA8472AA99961AFD8DB5AC2C949
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:14
+1 FAMC @F23@
+0 @I82@ INDI
+1 NAME Ane Dagny /Andersen/
+2 GIVN Ane Dagny
+2 SURN Andersen
+1 SEX F
+1 BIRT
+2 DATE 11 Nov 1906
+2 PLAC Als, Hindsted, Aalborg
+1 CHR
+2 DATE 1 Jan 1907
+2 PLAC Als, Hindsted, Aalborg
+2 NOTE @CI82@
+1 DEAT Y
+1 _UID 9B2ED209A3984F00A1472548331A590831A8
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:06
+1 FAMS @F24@
+1 FAMC @F25@
+0 @CI82@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=159628#
+1 CONC 159628,26842898
+0 @I83@ INDI
+1 NAME Anders Peter /Andersen/
+2 GIVN Anders Peter
+2 SURN Andersen
+2 NPFX Snedkermester
+1 SEX M
+1 BIRT
+2 DATE 18 Apr 1882
+2 PLAC Bælum Nørgaard, Bælum, Hellum, Aalborg
+1 CHR
+2 DATE 7 May 1882
+2 PLAC Bælum, Hellum, Aalborg
+2 NOTE @CI83@
+1 DEAT Y
+1 _UID EB22C32BB0774DA69460EE83DF61387769A5
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:25
+1 FAMS @F25@
+1 FAMC @F26@
+0 @CI83@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357729#
+1 CONC 357729,70468163
+0 @I84@ INDI
+1 NAME Dorthea /Kristensen/
+2 GIVN Dorthea
+2 SURN Kristensen
+1 SEX F
+1 BIRT
+2 DATE 28 Jan 1886
+1 DEAT Y
+1 _UID A2D4499C2DCF45C485851E12AE3FE79806C1
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:13
+1 FAMS @F25@
+0 @I85@ INDI
+1 NAME Claus Christian /Andersen/
+2 GIVN Claus Christian
+2 SURN Andersen
+2 NPFX Røgter
+1 SEX M
+1 BIRT
+2 DATE 18 Jul 1849
+2 PLAC Korup, Solbjerg, Hellum, Aalborg
+1 CHR
+2 DATE 7 Oct 1849
+2 PLAC Solbjerg, Hellum, Aalborg
+2 NOTE @CI85@
+1 DEAT Y
+1 _UID 28B7C09F3C4242BCAEF65BF26F51AA97AC42
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:02
+1 FAMS @F26@
+1 FAMC @F29@
+0 @CI85@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357756#
+1 CONC 357756,70468760
+0 @I86@ INDI
+1 NAME Ane /Flau/
+2 GIVN Ane
+2 SURN Flau
+1 SEX F
+1 BIRT
+2 DATE 2 Nov 1852
+2 PLAC Store Brøndum, Hellum, Aalborg
+1 CHR
+2 DATE 22 Apr 1853
+2 PLAC Store Brøndum, Hellum, Aalborg
+2 NOTE @CI86@
+1 DEAT
+2 DATE 18 Oct 1932
+2 PLAC Vårst, Gunderup, Fleskum, Aalborg
+1 BURI
+2 DATE 23 Oct 1932
+2 PLAC Gunderup, Fleskum, Aalborg
+2 NOTE @XI86@
+1 _UID 2AA9C8DB175741BAA296A553935AC16A2768
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:46
+1 FAMS @F26@
+1 FAMC @F27@
+0 @CI86@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357875#
+1 CONC 357875,70471473
+1 CONT
+1 CONT Parents: Teglbrænder Johan Joakim Frederik Flau og hustru J
+1 CONC ohanne Madssine Nielsdatter Teil (29 år) i Brøndum Fattighu
+1 CONC s.
+1 CONT Ægtefolkene var under 12. april 1953 separeret i henseend
+1 CONC e til bord og seng.
+0 @XI86@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=163110#
+1 CONC 163110,27399999
+0 @I87@ INDI
+1 NAME Johan Joachim Frederik /Flau/
+2 GIVN Johan Joachim Frederik
+2 SURN Flau
+2 NPFX Teglbrænder
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC Mecklenburg
+1 DEAT Y
+1 _UID 9C236154F2AC44159E0698AA2C0A6FDCD204
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:38
+1 FAMS @F27@
+0 @I88@ INDI
+1 NAME Johanne Madssillie Nielsdatter /Theil/
+2 GIVN Johanne Madssillie Nielsdatter
+2 SURN Theil
+1 SEX F
+1 BIRT
+2 DATE 25 Mar 1823
+2 PLAC Gunderup, Fleskum, Aalborg
+1 CHR
+2 DATE 10 Aug 1823
+2 PLAC Gunderup, Fleskum, Aalborg
+2 NOTE @CI88@
+1 DEAT Y
+1 _UID AEAF445CDC0842E48F32463B4D9C4BD451D8
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:53
+1 FAMS @F27@
+1 FAMC @F28@
+0 @CI88@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=356781#
+1 CONC 356781,70446039
+0 @I89@ INDI
+1 NAME Johanne Margrethe Elisabeth /Flau/
+2 GIVN Johanne Margrethe Elisabeth
+2 SURN Flau
+1 SEX F
+1 BIRT
+2 DATE 1842
+2 PLAC Gunderup, Fleskum, Aalborg
+1 DEAT Y
+1 _UID 5F2E2B302F354487BAC32A70B3BD5502F54E
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:39
+1 FAMC @F27@
+0 @I90@ INDI
+1 NAME Ane Sine Henriette /Flau/
+2 GIVN Ane Sine Henriette
+2 SURN Flau
+1 SEX F
+1 BIRT
+2 DATE 1844
+2 PLAC Gunderup, Fleskum, Aalborg
+1 DEAT Y
+1 _UID 5BB537D9F6A94E808C899EFDB74B9DB18D15
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:40
+1 FAMC @F27@
+0 @I91@ INDI
+1 NAME Niels /Theil/
+2 GIVN Niels
+2 SURN Theil
+1 SEX M
+1 _UID F53D59F14B8845A3984B2ABB6CF5D95790CF
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:54
+1 FAMS @F28@
+0 @I92@ INDI
+1 NAME Elisabeth /Jensdatter/
+2 GIVN Elisabeth
+2 SURN Jensdatter
+1 SEX F
+1 _UID 57BB8BD71F584652B535D0F4B15A19D72C5E
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:54
+1 FAMS @F28@
+0 @I93@ INDI
+1 NAME Anders /Christensen/
+2 GIVN Anders
+2 SURN Christensen
+2 NPFX Husmand
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC Aulum, Hammerum, Ringkøbing
+1 DEAT
+2 DATE Bef 1880
+2 PLAC Korup, Solbjerg, Hellum, Aalborg
+1 _UID 7234721005BC47BC90408732A5E8D9452091
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:09
+1 FAMS @F29@
+0 @I94@ INDI
+1 NAME Ane Kirstine /Holst/
+2 GIVN Ane Kirstine
+2 SURN Holst
+1 SEX F
+1 BIRT
+2 DATE 24 Oct 1811
+2 PLAC Lillevorde, Fleskum, Aalborg
+1 DEAT
+2 DATE 11 Apr 1898
+2 PLAC Korup, Solbjerg, Hellum, Aalborg
+1 BURI
+2 DATE 19 Apr 1898
+2 PLAC Solbjerg, Hellum, Aalborg
+2 NOTE @XI94@
+1 _UID 1A81B65F9C6E491686706AB86981800FAA2A
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:12
+1 FAMS @F29@
+1 FAMC @F30@
+1 NOTE @NI94@
+0 @NI94@ NOTE
+1 CONC Census 1890 Solbjerg:
+1 CONT  196Carl Peter AndersenMand331857GiftHusfader Husmand
+1 CONT 197Ane Magrethe NielsenKvinde361854GiftHusmoder, Kone
+1 CONT 198Anders Peter AndersenMand51885UgiftBarn Dreng
+1 CONT 199Ane Kirstine AndersenKvinde101880UgiftBarn Pige
+1 CONT 200Ane Kirstine HolstKvinde781812Enke(mand)Kone Aftægtskone
+0 @XI94@ NOTE
+1 CONC https://www.danishfamilysearch.dk/churchbook/sogn82/churchl
+1 CONC isting22259/opslag4521332
+0 @I95@ INDI
+1 NAME Carl Peter /Andersen/
+2 GIVN Carl Peter
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 1857
+2 PLAC Solbjerg, Hellum, Aalborg
+1 DEAT Y
+1 _UID 5D056071E1254480A375BAAFADD1819E1B3C
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:06
+1 FAMC @F29@
+0 @I96@ INDI
+1 NAME Claus /Holst/
+2 GIVN Claus
+2 SURN Holst
+2 NPFX Husmand
+1 SEX M
+1 DEAT
+2 PLAC Lillevorde, Fleskum, Aalborg
+1 _UID 3710B8964DC947248BA300E41FF86AD079A0
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:12
+1 FAMS @F30@
+0 @I97@ INDI
+1 NAME Karen /Jensdatter/
+2 GIVN Karen
+2 SURN Jensdatter
+1 SEX F
+1 DEAT
+2 PLAC Lillevorde, Fleskum, Aalborg
+1 _UID F9F5CF6DA57244729438BA73A3D9F02581F1
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:12
+1 FAMS @F30@
+0 @I98@ INDI
+1 NAME Inger Kirstine /Andersdatter/
+2 GIVN Inger Kirstine
+2 SURN Andersdatter
+1 SEX F
+1 BIRT
+2 DATE 1845
+2 PLAC Korup, Solbjerg, Hellum, Aalborg
+1 DEAT Y
+1 _UID B7FE85B6CEEA4A9484273A7ECFDEB80D5BFA
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:16
+1 FAMC @F29@
+0 @I99@ INDI
+1 NAME Johan Christian /Andersen/
+2 GIVN Johan Christian
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 13 Aug 1876
+2 PLAC Solbjerg, Hellum, Aalborg
+1 CHR
+2 DATE 3 Dec 1876
+2 PLAC Solbjerg, Hellum, Aalborg
+2 NOTE @CI99@
+1 DEAT Y
+1 _UID 0F2DCCD60DE84AC99DA87FDE4B241C3C4FFE
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:25
+1 FAMC @F26@
+0 @CI99@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357765#
+1 CONC 357765,70469093.
+1 CONT Born out of wedlock.
+0 @I100@ INDI
+1 NAME Ane Kirstine /Andersen/
+2 GIVN Ane Kirstine
+2 SURN Andersen
+1 SEX F
+1 BIRT
+2 DATE 17 Aug 1879
+2 PLAC Store Brøndum, Hellum, Aalborg
+1 DEAT Y
+1 _UID ABA52FF7EE0443A8A21D84A0A6AD0CF68B12
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:18
+1 FAMC @F26@
+0 @I101@ INDI
+1 NAME Jens /Andersen/
+2 GIVN Jens
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 18 Oct 1883
+2 PLAC Solbjerg, Hellum, Aalborg
+1 CHR
+2 DATE 30 Dec 1883
+2 PLAC Solbjerg, Hellum, Aalborg
+2 NOTE @CI101@
+1 DEAT Y
+1 _UID 0C5AE8B5E72448DDB8E264B75C6A2F05E2C6
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:23
+1 FAMC @F26@
+0 @CI101@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357765#
+1 CONC 357765,70469110
+0 @I102@ INDI
+1 NAME Axel Marinus /Andersen/
+2 GIVN Axel Marinus
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 22 Sep 1888
+2 PLAC Solbjerg, Hellum, Aalborg
+1 CHR
+2 DATE 31 Mar 1889
+2 PLAC Bælum, Hellum, Aalborg
+2 NOTE @CI102@
+1 DEAT Y
+1 _UID 30AEFD855BED4757AAAF05FDB97C1D64572F
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:21
+1 FAMC @F26@
+0 @CI102@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=357765#
+1 CONC 357765,70469122
+0 @I103@ INDI
+1 NAME Irena /Sørensen/
+2 GIVN Irena
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 1 Apr 1908
+2 PLAC Aarhus Domsogn, Hasle, Aarhus
+1 DEAT Y
+1 _UID 42F34BBCCDCD4A8492B4F34FE0E229526979
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:43
+1 FAMC @F4@
+0 @I104@ INDI
+1 NAME Anna /Sørensen/
+2 GIVN Anna
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 15 Aug 1909
+2 PLAC Hobro, Onsild, Randers
+1 DEAT Y
+1 _UID 718A3462341145AFAB06C638D94015994021
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:37
+1 FAMC @F4@
+0 @I105@ INDI
+1 NAME Metha /Sørensen/
+2 GIVN Metha
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 6 Jul 1914
+2 PLAC København
+1 DEAT Y
+1 _UID A2C09D873CC1486F886CEA8452CB2BAA8E90
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:39
+1 FAMC @F4@
+0 @I106@ INDI
+1 NAME Else /Sørensen/
+2 GIVN Else
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 6 Aug 1916
+2 PLAC Lemvig, Skodborg, Ringkøbing
+1 DEAT Y
+1 _UID 97ADC65C56114F269AF531296A89AB420B93
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:40
+1 FAMC @F4@
+0 @I107@ INDI
+1 NAME Erik /Sørensen/
+2 GIVN Erik
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 30 Nov 1918
+2 PLAC Lemvig, Skodborg, Ringkøbing
+1 DEAT Y
+1 _UID EE2D9BE0C5654B518757C097668B4F4415DE
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:40
+1 FAMC @F4@
+0 @I108@ INDI
+1 NAME Grethe /Sørensen/
+2 GIVN Grethe
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 20 Jun 1921
+2 PLAC Lemvig, Skodborg, Ringkøbing
+1 DEAT Y
+1 _UID 3ECB42BAD3B24ED8A1C188A39AFDB82AB6A8
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:41
+1 FAMC @F4@
+0 @I109@ INDI
+1 NAME Karen Kær /Sørensen/
+2 GIVN Karen Kær
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 10 May 1927
+2 PLAC Hvorup, Kær, Aalborg
+1 DEAT Y
+1 _UID E4B56D44D5FC4BFE9DFED9B9C89769368F6B
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:44
+1 FAMC @F8@
+0 @I110@ INDI
+1 NAME Ellen Kær /Sørensen/
+2 GIVN Ellen Kær
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 27 Apr 1928
+2 PLAC Hvorup, Kær, Aalborg
+1 DEAT Y
+1 _UID 7AFFF0F6BD684E73B7BEB04DCA3BF50BBCF3
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:45
+1 FAMC @F8@
+0 @I111@ INDI
+1 NAME Carl Kær /Sørensen/
+2 GIVN Carl Kær
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 16 Feb 1931
+2 PLAC Vamdrup, Anst, Ribe
+1 _UID 1AE9FDD816E64EF39467C47BBBDC340B25F9
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:45
+1 FAMC @F8@
+0 @I112@ INDI
+1 NAME Aage Kær /Sørensen/
+2 GIVN Aage Kær
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 16 Jan 1932
+2 PLAC Vamdrup, Anst, Ribe
+1 _UID CED911871F6D4FCCBF6415ADB2DEBD344C68
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:46
+1 FAMC @F8@
+0 @I113@ INDI
+1 NAME Niels Kristensen /Møller/
+2 GIVN Niels Kristensen
+2 SURN Møller
+2 NPFX Skolelærer
+1 SEX M
+1 _UID 2DC10761833547C4BEC5DE0EBDDECC0EFD84
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:31
+1 FAMS @F31@
+0 @I114@ INDI
+1 NAME Inger Johanne /Larsen/
+2 GIVN Inger Johanne
+2 SURN Larsen
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 DEAT Y
+1 _UID 132C1D5873D249ADA0C9091F9AB3707BB857
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:23
+1 FAMS @F31@
+0 @I115@ INDI
+1 NAME Jakob /Larsen/
+2 GIVN Jakob
+2 SURN Larsen
+2 NPFX Faktor
+1 SEX M
+1 BIRT
+2 DATE 5 Jun 1882
+2 PLAC Frederiksborg Slotssogn, Lynge-Frederiksborg, Frederiksborg
+1 DEAT
+2 DATE 16 May 1924
+2 PLAC Finsens Lysinstitut, København
+1 BURI
+2 DATE 23 May 1924
+2 PLAC Frederiksborg Slotssogn, Lynge-Frederiksborg, Frederiksborg
+2 NOTE @XI115@
+1 _UID 216734FE63094A55A0120B55D7F208B65E20
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:37
+1 FAMS @F32@
+0 @XI115@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=154901#
+1 CONC 154901,25856857
+0 @I116@ INDI
+1 NAME Jørgen /Larsen/
+2 GIVN Jørgen
+2 SURN Larsen
+1 SEX M
+1 BIRT
+2 DATE 11 Nov 1920
+2 PLAC Frederiksborg Slotssogn, Lynge-Frederiksborg, Frederiksborg
+1 CHR
+2 DATE 12 Dec 1920
+2 PLAC Frederiksborg Slotssogn, Lynge-Frederiksborg, Frederiksborg
+2 NOTE @CI116@
+1 DEAT Y
+1 _UID 4C0192587176463085D1C0C52149643A77A6
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:35
+1 FAMC @F32@
+0 @CI116@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=149808#
+1 CONC 149808,24802184
+0 @I117@ INDI
+1 NAME Hans Peter /Sørensen/
+2 GIVN Hans Peter
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 1876
+2 PLAC Ravnkilde, Års, Aalborg
+1 CHR
+2 DATE 21 Jan 1877
+2 PLAC Ravnkilde, Års, Aalborg
+2 NOTE @CI117@
+1 DEAT Y
+1 _UID 1DF904D4A8C14355A5C208F61BFFBFA4D128
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:13
+1 FAMC @F10@
+0 @CI117@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=359481#
+1 CONC 359481,70505547
+0 @I118@ INDI
+1 NAME Søren /Sørensen/
+2 GIVN Søren
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 1880
+2 PLAC Ravnkilde, Års, Aalborg
+1 DEAT Y
+1 _UID EA8F6D4E9FDC4D91B0D2FC15D89A39713C90
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:45
+1 FAMC @F10@
+0 @I119@ INDI
+1 NAME Else Marie Kirstine /Sørensen/
+2 GIVN Else Marie Kirstine
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 1882
+2 PLAC Svingelbjerg, Vesterbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 21BB4CF21CF14D23B5C2AF37E2C449E4C7CC
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:44
+1 FAMC @F10@
+0 @I120@ INDI
+1 NAME Søren /Sørensen/
+2 GIVN Søren
+2 SURN Sørensen
+2 NPFX Indsidder
+1 SEX M
+1 BIRT
+2 DATE 1821
+2 PLAC Gedsted, Rinds, Viborg
+1 DEAT Y
+1 _UID F7729A8C400B4D5AA94DEC51BD5E487990E2
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:57
+1 FAMS @F33@
+0 @I121@ INDI
+1 NAME Maren /Nielsdatter/
+2 GIVN Maren
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1817
+2 PLAC Vognsild, Gislum, Aalborg
+1 DEAT Y
+1 _UID 48D95A0B544A4B239C83FAD7DA9312ABAC6D
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:58
+1 FAMS @F33@
+0 @I122@ INDI
+1 NAME Jakob /Sørensen/
+2 GIVN Jakob
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 20 Mar 1849
+2 PLAC Vester Fuglsang Hede, Østerbølle, Rinds, Viborg
+1 CHR
+2 DATE 28 Mar 1849
+2 PLAC Hjemme
+1 DEAT
+2 DATE 1849
+2 PLAC Vester Fuglsang Hede, Østerbølle, Rinds, Viborg
+1 _UID D40A220489534DEEAC7D611C98D5D0201E7F
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:56
+1 FAMC @F33@
+0 @I123@ INDI
+1 NAME Peder /Sørensen/
+2 GIVN Peder
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 1847
+2 PLAC Østerbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 01FFE3FFB9A2420DB10BB170AE678C97A1D0
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:58
+1 FAMC @F33@
+0 @I124@ INDI
+1 NAME Karen /Sørensen/
+2 GIVN Karen
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 1856
+2 PLAC Vesterbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID ADA731AF6DD24B2DBE36DEDBC97D694B926C
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:59
+1 FAMC @F33@
+0 @I125@ INDI
+1 NAME Carl /Sørensen/
+2 GIVN Carl
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 1859
+2 PLAC Vesterbølle, Rinds, Viborg
+1 DEAT Y
+1 _UID 0FFABA8E976E4955B727065520AD4076B0B0
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:59
+1 FAMC @F33@
+0 @I126@ INDI
+1 NAME Niels Carl /Sørensen/
+2 GIVN Niels Carl
+2 SURN Sørensen
+1 SEX M
+1 BIRT
+2 DATE 1878
+2 PLAC Store Rørbæk, Ravnkilde, Års, Aalborg
+1 DEAT Y
+1 _UID 6A3E83FA228F4AA398057EAD200072D9F6EF
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:03
+1 FAMC @F10@
+0 @I127@ INDI
+1 NAME Hans Peder /Christensen/
+2 GIVN Hans Peder
+2 SURN Christensen
+2 NPFX Daglejer
+1 SEX M
+1 BIRT
+2 DATE 1818
+2 PLAC Aarestrup, Hornum, Aalborg
+1 DEAT Y
+1 _UID 60709D61212E4364919DE107AF6A6292E747
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:22
+1 FAMS @F34@
+0 @I128@ INDI
+1 NAME Else Marie /Pedersdatter/
+2 GIVN Else Marie
+2 SURN Pedersdatter
+1 SEX F
+1 BIRT
+2 DATE 1827
+2 PLAC Gravlev, Hornum, Aalborg
+1 DEAT Y
+1 _UID 55C2135A45DD479DA9A5E0604F3C10C97C14
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:22
+1 FAMS @F34@
+0 @I129@ INDI
+1 NAME Christen /Hansen/
+2 GIVN Christen
+2 SURN Hansen
+1 SEX M
+1 BIRT
+2 DATE 1849
+2 PLAC Aarestrup, Hornum, Aalborg
+1 DEAT Y
+1 _UID F3244BC26F8343B5934E54A56374B2BC2D03
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:23
+1 FAMC @F34@
+0 @I130@ INDI
+1 NAME Peder /Hansen/
+2 GIVN Peder
+2 SURN Hansen
+1 SEX M
+1 BIRT
+2 DATE 1851
+2 PLAC Aarestrup, Hornum, Aalborg
+1 DEAT Y
+1 _UID F2E8904B116F44829E81023699ED54DF0B75
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:23
+1 FAMC @F34@
+0 @I131@ INDI
+1 NAME Maren /Hansen/
+2 GIVN Maren
+2 SURN Hansen
+1 SEX F
+1 BIRT
+2 DATE 1857
+2 PLAC Aarestrup, Hornum, Aalborg
+1 DEAT Y
+1 _UID 52C00C7DB44F4FAB94733D889280FC8BFD75
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:24
+1 FAMC @F34@
+0 @I132@ INDI
+1 NAME Niels Christensen /Bech/
+2 GIVN Niels Christensen
+2 SURN Bech
+2 NPFX Arbejdsmand
+1 SEX M
+1 BIRT
+2 DATE 18 Oct 1836
+2 PLAC Faarup, Sabro, Aarhus
+1 CHR
+2 DATE 20 Nov 1836
+2 PLAC Faarup, Sabro, Aarhus
+2 NOTE @CI132@
+1 DEAT Y
+1 _UID 758A45454AD74B63AF8079B33EE144C0D6FB
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:01
+1 FAMS @F41@
+1 FAMS @F35@
+1 FAMC @F36@
+1 NOTE @NI132@
+0 @NI132@ NOTE
+1 CONC Census Aarhus 1901.
+1 CONT 431Niels Christensen BechMand6418-10-1836 in FaarupGiftHusf
+1 CONC ader Arbejdsmand ved Statsbanernes værksted
+1 CONT 432Ane Kristine BechKvinde6530-3-1835 in Holte, SøllerødGif
+1 CONC tHusmoder
+0 @CI132@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=392114#
+1 CONC 392114,74296934
+0 @I133@ INDI
+1 NAME Ane Kirstine /Carlsen/
+2 GIVN Ane Kirstine
+2 SURN Carlsen
+1 SEX F
+1 BIRT
+2 DATE 30 Mar 1835
+2 PLAC Søllerød, Sokkelund, København
+1 CHR
+2 DATE 16 May 1835
+2 PLAC Hjemme
+2 NOTE @CI133@
+1 DEAT Y
+1 _UID 9125536DF935428AA511B863564E2CDAEB01
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:45
+1 FAMS @F35@
+1 FAMC @F37@
+0 @CI133@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=355510#
+1 CONC 355510,70393925
+0 @I134@ INDI
+1 NAME Christen Jensen /Bech/
+2 GIVN Christen Jensen
+2 SURN Bech
+2 NPFX Husmand, væver
+1 SEX M
+1 BIRT
+2 DATE 1805
+2 PLAC Faarup, Sabro, Aarhus
+1 DEAT
+2 DATE 2 May 1855
+2 PLAC Faarup, Sabro, Aarhus
+1 BURI
+2 DATE 9 May 1855
+2 PLAC Faarup, Sabro, Aarhus
+2 NOTE @XI134@
+1 _UID 584124E5FBA942CB85A45D45E7DF46F01A86
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:51
+1 FAMS @F36@
+1 FAMC @F42@
+0 @XI134@ NOTE
+1 CONC Found dead in the field.
+1 CONT
+1 CONT https://www.sa.dk/ao-soegesider/da/billedviser?bsid=392128#
+1 CONC 392128,74297138
+0 @I135@ INDI
+1 NAME Ingeborg /Nielsdatter/
+2 GIVN Ingeborg
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1805
+2 PLAC Sabro, Sabro, Aarhus
+1 DEAT Y
+1 _UID FFEBA44EA9EF4FDBB71E7358BF95E830AA4C
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:42
+1 FAMS @F36@
+1 FAMC @F43@
+0 @I136@ INDI
+1 NAME Niels /Eriksen/
+2 GIVN Niels
+2 SURN Eriksen
+1 SEX M
+1 BIRT
+2 DATE 1769
+2 PLAC Skjoldelev, Lading, Sabro, Aarhus
+1 DEAT
+2 DATE 24 Feb 1845
+2 PLAC Sabro, Sabro, Aarhus
+1 BURI
+2 DATE 2 Mar 1845
+2 PLAC Sabro, Sabro, Aarhus
+1 _UID 86929678178A46B79102B185027C9B1DC38B
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:34
+1 FAMS @F43@
+0 @I137@ INDI
+1 NAME Else /Lausdatter/
+2 GIVN Else
+2 SURN Lausdatter
+1 SEX F
+1 BIRT
+2 DATE 1772
+1 DEAT
+2 DATE 1 Jun 1832
+2 PLAC Sabro, Sabro, Aarhus
+1 BURI
+2 DATE 7 Jun 1832
+2 PLAC Sabro, Sabro, Aarhus
+2 NOTE @XI137@
+1 _UID 0FDE54016DFF478AB5183EA655A08AE49376
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:31
+1 FAMS @F43@
+0 @XI137@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=392090#
+1 CONC 392090,74296530
+0 @I138@ INDI
+1 NAME Bartholine Nielsen /Bech/
+2 GIVN Bartholine Nielsen
+2 SURN Bech
+1 SEX F
+1 BIRT
+2 DATE 3 Aug 1869
+2 PLAC Dallerup, Skjern, Skanderborg
+1 CHR
+2 DATE 12 Sep 1869
+2 PLAC Dallerup, Skjern, Skanderborg
+2 NOTE @CI138@
+1 DEAT Y
+1 _UID 4632B77FC4864CEDA5ED56C2CB05453D2D75
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:49
+1 FAMC @F41@
+0 @CI138@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=394464#
+1 CONC 394464,74359780
+0 @I139@ INDI
+1 NAME Carl Wilhelm /Carlsen/
+2 GIVN Carl Wilhelm
+2 SURN Carlsen
+2 NPFX Smed
+1 SEX M
+1 BIRT
+2 DATE Mar 1808
+2 PLAC Søllerød, Sokkelund, København
+1 CHR
+2 DATE 13 Mar 1808
+2 PLAC Søllerød, Sokkelund, København
+2 NOTE @CI139@
+1 DEAT
+2 DATE 2 Apr 1879
+2 PLAC Lynge, Smørum, København
+1 BURI
+2 DATE 9 Apr 1879
+2 PLAC Lynge, Smørum, København
+2 NOTE @XI139@
+1 _UID 8E9B1D3ABDE34FE9BDB853857E894D595262
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 11:57
+1 FAMS @F37@
+1 FAMC @F38@
+0 @CI139@ NOTE
+1 CONC Confirmation record:
+1 CONT https://www.ancestry.com/imageviewer/collections/61607/imag
+1 CONC es/48603_62021000438_2665-00204?usePUB=true&pId=7285735
+1 CONT
+0 @XI139@ NOTE
+1 CONC https://www.ancestry.com/imageviewer/collections/61607/imag
+1 CONC es/48621_62021000438_2751-00167?usePUB=true&pId=9677944
+0 @I140@ INDI
+1 NAME Inger /Rasmusdatter/
+2 GIVN Inger
+2 SURN Rasmusdatter
+2 NPFX Midwife
+1 SEX F
+1 BIRT
+2 DATE 21 Jul 1803
+2 PLAC Værløse, Smørum, København
+1 CHR
+2 DATE 28 Aug 1803
+2 PLAC Værløse, Smørum, København
+2 NOTE @CI140@
+1 DEAT
+2 DATE 2 Jan 1888
+2 PLAC Tjæreby, Strø, Frederiksborg
+1 BURI
+2 DATE 10 Jan 1888
+2 PLAC Tjæreby, Strø, Frederiksborg
+2 NOTE @XI140@
+1 _UID D500C014A9514F868ED22C038F869A5C12AA
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:16
+1 FAMS @F37@
+1 FAMC @F40@
+0 @CI140@ NOTE
+1 CONC Confirmation record:
+1 CONT https://www.sa.dk/ao-soegesider/da/billedviser?bsid=389408#
+1 CONC 389408,74216776
+0 @XI140@ NOTE
+1 CONC https://www.ancestry.com/imageviewer/collections/61607/imag
+1 CONC es/48621_62021000438_2761-00662?usePUB=true&pId=9557285
+0 @I141@ INDI
+1 NAME Peter Christian Rasmus /Carlsen/
+2 GIVN Peter Christian Rasmus
+2 SURN Carlsen
+1 SEX M
+1 BIRT
+2 DATE 15 Oct 1837
+2 PLAC Søllerød, Sokkelund, København
+1 CHR
+2 DATE 24 Nov 1837
+2 PLAC Søllerød, Sokkelund, København
+2 NOTE @CI141@
+1 DEAT Y
+1 _UID 3EFCFE28F33C4120A92FF9941C205E9786A0
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 11:23
+1 FAMC @F37@
+0 @CI141@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=355509#
+1 CONC 355509,70393827
+1 CONT eller
+1 CONT https://www.sa.dk/ao-soegesider/da/billedviser?bsid=355509#
+1 CONC 355509,70393835
+0 @I142@ INDI
+1 NAME Mons /Carlsen/
+2 GIVN Mons
+2 SURN Carlsen
+2 NPFX Husmand
+1 SEX M
+1 BIRT
+2 PLAC Nærum, Søllerød, Sokkelund, København
+1 _UID 632C7D1F46C045E199CFE87B2BDABA6748AD
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 11:55
+1 FAMS @F38@
+0 @I143@ INDI
+1 NAME Maren Cathrine Sophie /Carlsen/
+2 GIVN Maren Cathrine Sophie
+2 SURN Carlsen
+1 SEX F
+1 BIRT
+2 DATE 1843
+2 PLAC Ugerløse, Merløse, Holbæk
+1 DEAT Y
+1 _UID 599A77894F084D81AC5B354B8A2EEF539919
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:02
+1 FAMS @F39@
+1 FAMC @F37@
+0 @I144@ INDI
+1 NAME Ole /Hansen/
+2 GIVN Ole
+2 SURN Hansen
+1 SEX M
+1 BIRT
+2 DATE 1841
+2 PLAC Lille Lyngby, Strø, Frederiksborg
+1 DEAT Y
+1 _UID 222B7AD6A34C4F54A23B3784A55BE3913BA8
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:02
+1 FAMS @F39@
+0 @I145@ INDI
+1 NAME Hans Vilhelm /Hansen/
+2 GIVN Hans Vilhelm
+2 SURN Hansen
+1 SEX M
+1 BIRT
+2 DATE 1875
+2 PLAC Tjæreby, Strø, Frederiksborg
+1 DEAT Y
+1 _UID DFE9124127B849BEB19B5703AEAB30ACDCC7
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:03
+1 FAMC @F39@
+0 @I146@ INDI
+1 NAME Lars Simon /Hansen/
+2 GIVN Lars Simon
+2 SURN Hansen
+1 SEX M
+1 BIRT
+2 DATE 1877
+2 PLAC Tjæreby, Strø, Frederiksborg
+1 DEAT Y
+1 _UID 3EED22F6023B4170807B1CE0D16C81644A8B
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:03
+1 FAMC @F39@
+0 @I147@ INDI
+1 NAME Inger Anna Hansine /Hansen/
+2 GIVN Inger Anna Hansine
+2 SURN Hansen
+1 SEX F
+1 BIRT
+2 DATE 14 Nov 1878
+2 PLAC Tjæreby, Strø, Frederiksborg
+1 CHR
+2 DATE 14 Mar 1880
+2 PLAC Tjæreby, Strø, Frederiksborg
+2 NOTE @CI147@
+1 DEAT Y
+1 _UID 03951EC2519A4C759EDBEFAEB8ED48ACD3B8
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:06
+1 FAMC @F39@
+0 @CI147@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=390495#
+1 CONC 390495,74256346
+0 @I148@ INDI
+1 NAME Rasmus /Pedersen/
+2 GIVN Rasmus
+2 SURN Pedersen
+1 NAME Rasmus Pedersen /Bech/
+2 GIVN Rasmus Pedersen
+2 SURN Bech
+1 SEX M
+1 _UID D2CC9267AC99472D9A07C50F0724DFB07F29
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:20
+1 FAMS @F40@
+0 @I149@ INDI
+1 NAME Birthe /Hansdatter/
+2 GIVN Birthe
+2 SURN Hansdatter
+1 SEX F
+1 _UID 741AF880C23E4E3E9E7A2D45C5516CE78545
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:20
+1 FAMS @F40@
+0 @I150@ INDI
+1 NAME Ane /Nielsen/
+2 GIVN Ane
+2 SURN Nielsen
+1 SEX F
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 4 Jan 1873
+2 PLAC Dallerup, Skjern, Skanderborg
+1 BURI
+2 DATE 11 Jan 1873
+2 PLAC Dallerup, Skjern, Skanderborg
+2 NOTE @XI150@
+1 _UID 05BD9629909D41439CD02C5DB2154A4C8460
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:53
+1 FAMS @F41@
+0 @XI150@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=394466#
+1 CONC 394466,74359825
+0 @I151@ INDI
+1 NAME Anne /Andersdatter/
+2 GIVN Anne
+2 SURN Andersdatter
+1 SEX F
+1 BIRT
+2 DATE 1779
+2 PLAC Brabrand. Hasle, Aarhus
+1 DEAT Y
+1 _UID 1DE8A303DF77499D9EAC51F1E3B8FDE4EF3A
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:16
+1 FAMS @F42@
+0 @I152@ INDI
+1 NAME Maren /Nielsdatter/
+2 GIVN Maren
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1812
+2 PLAC Sabro, Sabro, Aarhus
+1 DEAT Y
+1 _UID 929253DD87EE4ACD8F7CDA8E5F310D2E1E2D
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:26
+1 FAMC @F43@
+0 @I153@ INDI
+1 NAME Ane Johanne /Andersen/
+2 GIVN Ane Johanne
+2 SURN Andersen
+1 SEX F
+1 BIRT
+2 DATE 26 Jan 1870
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 CHR
+2 DATE 27 Feb 1870
+2 PLAC Sjørslev, Lysgaard, Viborg
+2 NOTE @CI153@
+1 DEAT
+2 DATE 13 Sep 1965
+2 PLAC Brønderslev lægekreds
+2 NOTE @DI153@
+1 _UID 962625333248424F8B59969E80ED198B48E7
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:31
+1 FAMC @F5@
+0 @CI153@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=363976#
+1 CONC 363976,70600684
+0 @DI153@ NOTE
+1 CONC https://dodsregister.dk/Infopage.aspx?id=swhcD0e2IzIt6lAFw7
+1 CONC TArg==
+0 @I154@ INDI
+1 NAME Petra Christine /Andersen/
+2 GIVN Petra Christine
+2 SURN Andersen
+1 SEX F
+1 BIRT
+2 DATE 8 Apr 1875
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 CHR
+2 DATE 2 May 1875
+2 PLAC Sjørslev, Lysgaard, Viborg
+2 NOTE @CI154@
+1 DEAT
+2 DATE 21 Jun 1968
+2 PLAC Djursland Lægekreds
+2 NOTE @DI154@
+1 _UID 56AC8182F78240958D67437FC258787510BE
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:32
+1 FAMC @F5@
+0 @CI154@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=363976#
+1 CONC 363976,70600695
+0 @DI154@ NOTE
+1 CONC https://dodsregister.dk/Infopage.aspx?id=wIM/zkh8GRmh6juG3a
+1 CONC 2D2w==
+0 @I155@ INDI
+1 NAME Christen /Christensen/
+2 GIVN Christen
+2 SURN Christensen
+2 NPFX Fæstehusmand
+1 NAME Christen Christensen /Grinderslev/
+2 GIVN Christen Christensen
+2 SURN Grinderslev
+1 NAME Christen Christensen /Salling/
+2 GIVN Christen Christensen
+2 SURN Salling
+1 SEX M
+1 BIRT
+2 DATE 1781
+2 PLAC Grinderslev, Nørre Salling, Viborg
+1 DEAT
+2 DATE 13 Jan 1841
+2 PLAC Haderup, Ginding, Ringkøbing
+1 BURI
+2 DATE 24 Jan 1841
+2 PLAC Haderup, Ginding, Ringkøbing
+2 NOTE @XI155@
+1 _UID E83498F4746F40A1892FBF3C53ED47670DDD
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:21
+1 FAMS @F46@
+0 @XI155@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=398686#
+1 CONC 398686,74464244
+0 @I156@ INDI
+1 NAME Dorthe Marie /Laustdatter/
+2 GIVN Dorthe Marie
+2 SURN Laustdatter
+1 SEX F
+1 BIRT
+2 DATE Oct 1788
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 CHR
+2 DATE 21 Oct 1788
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 DEAT
+2 DATE 11 Feb 1849
+2 PLAC Haderup, Ginding, Ringkøbing
+1 BURI
+2 DATE 18 Feb 1849
+2 PLAC Haderup, Ginding, Ringkøbing
+2 NOTE @XI156@
+1 _UID 083F85D9B6DA444995F336131D773B57B931
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:44
+1 FAMS @F46@
+1 FAMC @F44@
+0 @XI156@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=386922#
+1 CONC 386922,74147187
+0 @I157@ INDI
+1 NAME Johanne /Christensdatter/
+2 GIVN Johanne
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 25 Jan 1817
+2 PLAC Hodsager, Ginding, Ringkøbing
+1 CHR
+2 DATE 25 Jan 1817
+2 PLAC Hjemme
+2 NOTE @CI157@
+1 DEAT Y
+1 _UID 866DCCFC707A49A687F4B055B059195187E0
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:51
+1 FAMS @F45@
+1 FAMC @F46@
+1 NOTE @NI157@
+0 @NI157@ NOTE
+1 CONC Census 1840, Hodsager:
+1 CONT  64Thomas FrølundMand281812GiftSkolelærer
+1 CONT 65Kjestine Marie FrølundKvinde221818GiftHans kone
+1 CONT 66Karoline Mathilde FrølundKvinde11839Ugift
+1 CONT 67Johanne ChristensdatterKvinde231817UgiftTjenestepige
+0 @CI157@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=398788#
+1 CONC 398788,74466548
+0 @I158@ INDI
+1 NAME Anders Pedersen /Salling/
+2 GIVN Anders Pedersen
+2 SURN Salling
+1 SEX M
+1 BIRT
+2 PLAC Sevel, Ginding, Ringkøbing
+1 _UID 9ADCE4DE40DA459FB99DF9B6577CFF222F50
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:59
+1 FAMS @F45@
+0 @I159@ INDI
+1 NAME Christine /Overfeldborg/
+2 GIVN Christine
+2 SURN Overfeldborg
+1 SEX F
+1 BIRT
+2 DATE 1844
+2 PLAC Haderup, Ginding, Ringkøbing
+1 DEAT Y
+1 _UID B1AD2773866F4D5790DC9E7C64BB590D9C6E
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:14
+1 FAMC @F45@
+0 @I160@ INDI
+1 NAME Laust /Jensen/
+2 GIVN Laust
+2 SURN Jensen
+2 NPFX Smed
+1 SEX M
+1 BIRT
+2 DATE 1754
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 DEAT
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 _UID 4B47F9FB0E6645479B802A3299F4403600B5
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:31
+1 FAMS @F44@
+1 FAMC @F47@
+0 @I161@ INDI
+1 NAME Johanne /Christensdatter/
+2 GIVN Johanne
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1758
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 DEAT
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 _UID 1E61D1B6DABC4F04B7FA70703EDCA6F131E8
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:31
+1 FAMS @F44@
+0 @I162@ INDI
+1 NAME Jens Christian /Laustsen/
+2 GIVN Jens Christian
+2 SURN Laustsen
+1 SEX M
+1 BIRT
+2 DATE 1797
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 DEAT Y
+1 _UID 078B2BA4BB7C434FB489A3E69FB28E400F5D
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:29
+1 FAMC @F44@
+0 @I163@ INDI
+1 NAME Maren /Christensdatter/
+2 GIVN Maren
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1717
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 DEAT
+2 DATE Aft 1801
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 _UID 28B4E56F7CF64F61A329EEA489F49F6A36BD
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:40
+1 FAMS @F47@
+0 @I164@ INDI
+1 NAME Jens /Smed/
+2 GIVN Jens
+2 SURN Smed
+1 SEX M
+1 BIRT
+2 DATE Abt 1710
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 DEAT
+2 DATE Bef 1787
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 _UID 7B5C66B4E4C748149E960F3D65665EE58689
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:40
+1 FAMS @F47@
+0 @I165@ INDI
+1 NAME Peder /Christensen/
+2 GIVN Peder
+2 SURN Christensen
+2 NPFX Husmand
+1 SEX M
+1 BIRT
+2 DATE 1786
+2 PLAC Thorning, Lysgaard, Viborg
+1 DEAT
+2 DATE 13 Aug 1861
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 BURI
+2 DATE 18 Aug 1861
+2 PLAC Sjørslev, Lysgaard, Viborg
+2 NOTE @XI165@
+1 _UID 625D94FD6E994EA4BE68B5F87DA155C85736
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:43
+1 FAMS @F48@
+0 @XI165@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=363964#
+1 CONC 363964,70600278
+0 @I166@ INDI
+1 NAME Ane Chatrine /Hansdatter/
+2 GIVN Ane Chatrine
+2 SURN Hansdatter
+1 SEX F
+1 BIRT
+2 DATE 1801
+2 PLAC Vium, Lysgaard, Viborg
+1 DEAT
+2 DATE Aft 1850
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 _UID 624E0467A0634D8AB127720E145BA3E544D9
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:40
+1 FAMS @F48@
+0 @I167@ INDI
+1 NAME Knud /Pedersen/
+2 GIVN Knud
+2 SURN Pedersen
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Thorning, Lysgaard, Viborg
+1 DEAT Y
+1 _UID 024974D1CFD74440B8214181C0E924E103CB
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:20
+1 FAMC @F48@
+0 @I168@ INDI
+1 NAME Frantz /Pedersen/
+2 GIVN Frantz
+2 SURN Pedersen
+1 SEX M
+1 BIRT
+2 DATE 1832
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 DEAT Y
+1 _UID E2E42DD491D244CD9A7DB23045FA29892599
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:25
+1 FAMC @F48@
+0 @I169@ INDI
+1 NAME Hans Christian /Pedersen/
+2 GIVN Hans Christian
+2 SURN Pedersen
+1 SEX M
+1 BIRT
+2 DATE 1839
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 DEAT Y
+1 _UID ABE97F2312FE41C1BA0A7F66BFC7C8CB0ADF
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:25
+1 FAMC @F48@
+0 @I170@ INDI
+1 NAME Peter /Pedersen/
+2 GIVN Peter
+2 SURN Pedersen
+1 SEX M
+1 BIRT
+2 DATE 1839
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 DEAT Y
+1 _UID 0D72786B70154C2BA7350414B70DBE0EE2D3
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:25
+1 FAMC @F48@
+0 @I171@ INDI
+1 NAME Anders /Pedersen/
+2 GIVN Anders
+2 SURN Pedersen
+1 SEX M
+1 BIRT
+2 DATE 18 Apr 1845
+2 PLAC Sjørslev, Lysgaard, Viborg
+1 CHR
+2 DATE 20 Jul 1845
+2 PLAC Sjørslev, Lysgaard, Viborg
+2 NOTE @CI171@
+1 DEAT Y
+1 _UID 139E18A71C4A40BFB3693E0465BF22057E0B
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:34
+1 FAMC @F48@
+0 @CI171@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=391156#
+1 CONC 391156,74274027
+0 @I172@ INDI
+1 NAME Søren /Sørensen/
+2 GIVN Søren
+2 SURN Sørensen
+2 NPFX Husmand
+1 SEX M
+1 BIRT
+2 DATE 1 Dec 1816
+2 PLAC Hvornum, Onsild, Randers
+1 CHR
+2 DATE 3 Apr 1817
+2 PLAC Hvornum, Onsild, Randers
+2 NOTE @CI172@
+1 DEAT Y
+1 CONF
+2 DATE 1831
+2 PLAC Hvornum, Onsild, Randers
+2 NOTE https://www.danishfamilysearch.dk/churchbook/sogn1077/churc
+3 CONC hlisting133454/opslag14376003
+1 _UID 49BE9FBCBF444BAE82A75258EF20DB6B865E
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:01
+1 FAMS @F49@
+1 FAMC @F51@
+0 @CI172@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=365568#
+1 CONC 365568,70639222
+0 @I173@ INDI
+1 NAME Maren /Andersdatter/
+2 GIVN Maren
+2 SURN Andersdatter
+1 SEX F
+1 BIRT
+2 DATE 1827
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID B4FC93687F33466883619784D6646C712189
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:33
+1 FAMS @F49@
+1 FAMC @F50@
+0 @I174@ INDI
+1 NAME Mette Marie /Sørensen/
+2 GIVN Mette Marie
+2 SURN Sørensen
+1 SEX F
+1 BIRT
+2 DATE 1855
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 248DE5E04E7745BE83B46A7026E5E2397582
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:30
+1 FAMC @F49@
+0 @I175@ INDI
+1 NAME Anders /Christensen/
+2 GIVN Anders
+2 SURN Christensen
+2 NPFX Gårdmand
+1 NAME Anders Christensen /Brøndum/
+2 GIVN Anders Christensen
+2 SURN Brøndum
+1 SEX M
+1 BIRT
+2 DATE 1800
+2 PLAC Aars, Aars, Aalborg
+1 DEAT
+2 DATE Aft 1870
+2 PLAC Fjelsø, Rinds, Viborg
+1 _UID DFAC21D2B8A5479AAD7A2E053014F774C5AC
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:59
+1 FAMS @F50@
+0 @I176@ INDI
+1 NAME Søren /Sørensen/
+2 GIVN Søren
+2 SURN Sørensen
+2 NPFX Almisselem
+1 NAME Søren Sørensen /Vammen/
+2 GIVN Søren Sørensen
+2 SURN Vammen
+1 SEX M
+1 BIRT
+2 DATE 1755
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT
+2 DATE 2 Apr 1843
+2 PLAC Hvornum, Onsild, Randers
+1 BURI
+2 DATE 9 Apr 1843
+2 PLAC Hvornum, Onsild, Randers
+2 NOTE @XI176@
+1 _UID 9EDD29A754A84A45878D2E3B0A3719F09D42
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:40
+1 FAMS @F51@
+0 @XI176@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=365582#
+1 CONC 365582,70639516
+0 @I177@ INDI
+1 NAME Maren /Nielsdatter/
+2 GIVN Maren
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1 Jun 1788
+2 PLAC Hvornum, Onsild, Randers
+1 CHR
+2 DATE 1 Jun 1788
+2 PLAC Hvornum, Onsild, Randers
+2 NOTE @CI177@
+1 DEAT
+2 DATE 20 May 1862
+2 PLAC Hvornum, Onsild, Randers
+1 BURI
+2 DATE 28 May 1862
+2 PLAC Hvornum, Onsild, Randers
+2 NOTE @XI177@
+1 _UID 94606CEC027C41B8A0B5957E8767767504CB
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:45
+1 FAMS @F51@
+1 FAMC @F52@
+0 @CI177@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=164866#
+1 CONC 164866,27692781
+0 @XI177@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=365596#
+1 CONC 365596,70640063
+0 @I178@ INDI
+1 NAME Else Marie /Sørensdatter/
+2 GIVN Else Marie
+2 SURN Sørensdatter
+1 SEX F
+1 BIRT
+2 DATE 1822
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID 93EAC30E23514D3A84DBF727F14836ED2210
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:04
+1 FAMC @F51@
+0 @I179@ INDI
+1 NAME Niels /Andersen/
+2 GIVN Niels
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 1730
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID 492B4C9AFC134BE6AC59E848669E057D5554
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:46
+1 FAMS @F52@
+0 @I180@ INDI
+1 NAME Else /Nielsdatter/
+2 GIVN Else
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1744
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID 5D33E4F71D5342A0AE784A0B6625A00164E4
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:46
+1 FAMS @F52@
+0 @I181@ INDI
+1 NAME Ane /Nielsdatter/
+2 GIVN Ane
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1768
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID 9F0DE1BAE8D84CF1BC3B9869A3F8C13CD458
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:47
+1 FAMC @F52@
+0 @I182@ INDI
+1 NAME Anders /Nielsen/
+2 GIVN Anders
+2 SURN Nielsen
+2 NPFX Selvejerbonde
+1 SEX M
+1 BIRT
+2 DATE 1774
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID 4CFE40716FD44E7F9A0C55746316983AC550
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:49
+1 FAMS @F53@
+1 FAMC @F52@
+0 @I183@ INDI
+1 NAME Marie /Nielsdatter/
+2 GIVN Marie
+2 SURN Nielsdatter
+1 SEX F
+1 BIRT
+2 DATE 1776
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID C60201B181EF4C419A229BC13C7520E646B5
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:47
+1 FAMC @F52@
+0 @I184@ INDI
+1 NAME Niels /Nielsen/
+2 GIVN Niels
+2 SURN Nielsen
+1 SEX M
+1 BIRT
+2 DATE 1780
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID B9CB59EA789E45E7AAE9D09F19B1B641CC3E
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:47
+1 FAMC @F52@
+0 @I185@ INDI
+1 NAME Jens /Nielsen/
+2 GIVN Jens
+2 SURN Nielsen
+1 SEX M
+1 BIRT
+2 DATE 1785
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID D3FBDC220EEF48A88BA731F516CB1599A0A0
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:48
+1 FAMC @F52@
+0 @I186@ INDI
+1 NAME Zidsel /Christensdatter/
+2 GIVN Zidsel
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1782
+2 PLAC Hvornum, Onsild, Randers
+1 DEAT Y
+1 _UID 04E75508482748D294337E8E28161241351C
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:49
+1 FAMS @F53@
+0 @I187@ INDI
+1 NAME Anderssine /Sørensdatter/
+2 GIVN Anderssine
+2 SURN Sørensdatter
+1 SEX F
+1 BIRT
+2 DATE 1862
+2 PLAC Klotrup, Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 159CA0DBCD6A4B468983779B91482DB5CDBA
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:53
+1 FAMC @F49@
+0 @I188@ INDI
+1 NAME Mette /Christensdatter/
+2 GIVN Mette
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1806
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 CONF
+2 DATE 1820
+2 PLAC Fjelsø, Rinds, Viborg
+2 NOTE https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361880#
+3 CONC 361880,70555007
+1 _UID A2636D0F4896418F973553BC86897E32C9B3
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:03
+1 FAMS @F50@
+1 FAMC @F54@
+0 @I189@ INDI
+1 NAME Ane Marie /Andersdatter/
+2 GIVN Ane Marie
+2 SURN Andersdatter
+1 SEX F
+1 BIRT
+2 DATE 1832
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 338FAEC3AE0A440AB56249B16CB9BAB3DC17
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:57
+1 FAMC @F50@
+0 @I190@ INDI
+1 NAME Anders Christian /Andersen/
+2 GIVN Anders Christian
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 1837
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 94BA0576336742B4822884C676C478A2A1F7
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:57
+1 FAMC @F50@
+0 @I191@ INDI
+1 NAME Christen /Andersen/
+2 GIVN Christen
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 1838
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID FA9FF77113FE45DB88DAEF67FF056880D691
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:57
+1 FAMC @F50@
+0 @I192@ INDI
+1 NAME Søren Christian /Andersen/
+2 GIVN Søren Christian
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 1842
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID A33EED6754E7420EA651F21CBCECEF4BA76E
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:58
+1 FAMC @F50@
+0 @I193@ INDI
+1 NAME Niels /Andersen/
+2 GIVN Niels
+2 SURN Andersen
+1 SEX M
+1 BIRT
+2 DATE 1844
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 96E48457571D4C7BAC68E68596801BA0E0E0
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:58
+1 FAMC @F50@
+0 @I194@ INDI
+1 NAME Christen /Jacobsen/
+2 GIVN Christen
+2 SURN Jacobsen
+2 NPFX Gårdmand
+1 SEX M
+1 BIRT
+2 DATE 1769
+2 PLAC Klotrup, Fjelsø, Rinds, Viborg
+1 DEAT
+2 DATE Bet 1840 And 1845
+2 PLAC Fjelsø, Rinds, Viborg
+1 _UID F6D620881DA0425DA4E8E2EE61E0ADFE188D
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:31
+1 FAMS @F54@
+1 FAMS @F55@
+0 @I195@ INDI
+1 NAME Ane Marie /Thomasdatter/
+2 GIVN Ane Marie
+2 SURN Thomasdatter
+1 SEX F
+1 BIRT
+2 DATE 1771
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT
+2 DATE Jul 1810
+2 PLAC Fjelsø, Rinds, Viborg
+1 BURI
+2 DATE 29 Jul 1810
+2 PLAC Fjelsø, Rinds, Viborg
+2 NOTE @XI195@
+1 _UID 29100FFFB553423683BEC8B0EFDA98A58655
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:22
+1 FAMS @F54@
+0 @XI195@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=161809#
+1 CONC 161809,27184037.
+1 CONT Almost top right-hand side.
+0 @I196@ INDI
+1 NAME Else Marie /Christensdatter/
+2 GIVN Else Marie
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1795
+2 PLAC Klotrup, Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 466DEE9ACF3C4D62A598BBC0A32F0C3BC633
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:05
+1 FAMC @F54@
+0 @I197@ INDI
+1 NAME Thomas /Christensen/
+2 GIVN Thomas
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1797
+2 PLAC Klotrup, Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 1FAA7613DE52495AA3A7D169CE05764B3D5D
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:06
+1 FAMC @F54@
+0 @I198@ INDI
+1 NAME Niels /Christensen/
+2 GIVN Niels
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC Klotrup, Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 7E850F976B3C4BDA8F1E11F8DD4C65D089D2
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:06
+1 FAMC @F54@
+0 @I199@ INDI
+1 NAME Jakob /Christensen/
+2 GIVN Jakob
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1800
+2 PLAC Klotrup, Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 928C2CA5D8734FF49EF1C568D782BB8BD8E8
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:06
+1 FAMC @F54@
+0 @I200@ INDI
+1 NAME Sophie /Thomasdatter/
+2 GIVN Sophie
+2 SURN Thomasdatter
+1 SEX F
+1 BIRT
+2 DATE 1796
+2 PLAC Vester Tostrup, Rinds, Viborg
+1 DEAT
+2 DATE Aft 1870
+2 PLAC Fjelsø, Rinds, Viborg
+1 _UID 508B22F0F8DA49B0866F0753BD79072569CD
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:35
+1 FAMS @F55@
+1 FAMS @F56@
+1 FAMC @F57@
+0 @I201@ INDI
+1 NAME Thomas Andersen /Christensen/
+2 GIVN Thomas Andersen
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1828
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 577B12BC2E114AA9861A1385B19584AE820F
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:26
+1 FAMC @F55@
+0 @I202@ INDI
+1 NAME Ane Marie /Christensdatter/
+2 GIVN Ane Marie
+2 SURN Christensdatter
+1 SEX F
+1 BIRT
+2 DATE 1833
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID 2A9B94DAEDF44C5E81EBA8CF3CF69E46B781
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:27
+1 FAMC @F55@
+0 @I203@ INDI
+1 NAME Thomas /Christensen/
+2 GIVN Thomas
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID E509344BFBAC4E60B6A39C82140B45720FD6
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:27
+1 FAMC @F55@
+0 @I204@ INDI
+1 NAME Christen /Christensen/
+2 GIVN Christen
+2 SURN Christensen
+1 SEX M
+1 BIRT
+2 DATE 1838
+2 PLAC Fjelsø, Rinds, Viborg
+1 DEAT Y
+1 _UID EF26DEEECA994611A84AC0F2BF8DEFA7216C
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:30
+1 FAMC @F55@
+0 @I205@ INDI
+1 NAME Søren /Pedersen/
+2 GIVN Søren
+2 SURN Pedersen
+2 NPFX Gårdmand
+1 SEX M
+1 BIRT
+2 DATE 1807
+2 PLAC Laastrup, Rinds, Viborg
+1 DEAT
+2 DATE Bet 1860 And 1870
+2 PLAC Fjelsø, Rinds, Viborg
+1 _UID BFD7031660644E648093FBD1FE3EE90C35B9
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:34
+1 FAMS @F56@
+0 @I206@ INDI
+1 NAME Thomas /Pedersen/
+2 GIVN Thomas
+2 SURN Pedersen
+2 NPFX Bonde
+1 SEX M
+1 BIRT
+2 DATE 1756
+2 PLAC Vester Tostrup, Rinds, Viborg
+1 DEAT Y
+1 _UID 2ED5AD15D64B47AEB426C59450A906F80572
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:36
+1 FAMS @F57@
+0 @I207@ INDI
+1 NAME Maren /Jensdatter/
+2 GIVN Maren
+2 SURN Jensdatter
+1 SEX F
+1 BIRT
+2 DATE 1757
+2 PLAC Vester Tostrup, Rinds, Viborg
+1 DEAT Y
+1 _UID 57878D5FA49C4280B8116798C032578663BD
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:36
+1 FAMS @F57@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 MARR
+1 CHIL @I1@
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 13:58
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I7@
+1 MARR
+2 DATE 23 Feb 1928
+1 CHIL @I10@
+1 CHIL @I2@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:04
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 MARR
+2 DATE 13 Dec 1896
+2 PLAC Hjørring Sankt Hans, Vennebjerg, Hjørring
+2 NOTE @NF3@
+1 CHIL @I11@
+1 CHIL @I4@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:39
+0 @NF3@ NOTE
+1 CONC https://www.ancestry.com/imageviewer/collections/61607/imag
+1 CONC es/48551_b412092-0086a-v?ssrc=pt&treeid=114545520&personid=
+1 CONC 402288883009&hintid=&usePUB=true&usePUBJs=true&_ga=2.351507
+1 CONC 53.1051921859.1626010293-556945811.1625396245&pId=3498747
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 MARR
+2 DATE 21 Oct 1908
+2 PLAC Fovlum, Gislum, Aalborg
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I7@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+1 CHIL @I108@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:29
+0 @F5@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 MARR
+1 CHIL @I153@
+1 CHIL @I6@
+1 CHIL @I154@
+1 CHAN
+2 DATE 8 Jul 2021
+3 TIME 14:40
+0 @F6@ FAM
+1 HUSB @I14@
+1 WIFE @I11@
+1 MARR
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:01
+0 @F7@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 MARR
+1 CHIL @I14@
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:04
+0 @F8@ FAM
+1 HUSB @I8@
+1 WIFE @I19@
+1 MARR
+2 DATE 16 Sep 1925
+2 PLAC Struer, Hjerm, Ringkøbing
+2 NOTE @NF8@
+1 CHIL @I109@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I112@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:30
+0 @NF8@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=169741#
+1 CONC 169741,28500520 <https://www.sa.dk/ao-soegesider/da/billedv
+1 CONC iser?bsid=169741>
+0 @F9@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 MARR
+2 DATE 19 Aug 1879
+2 PLAC Fjelsø, Rinds, Viborg
+2 NOTE @NF9@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I9@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:29
+0 @NF9@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361898#
+1 CONC 361898,70555477
+0 @F10@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 MARR
+1 CHIL @I117@
+1 CHIL @I126@
+1 CHIL @I118@
+1 CHIL @I119@
+1 CHIL @I8@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 11:39
+0 @F11@ FAM
+1 HUSB @I26@
+1 WIFE @I27@
+1 MARR
+2 DATE 25 Apr 1845
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @NF11@
+1 CHIL @I20@
+1 CHIL @I28@
+1 CHIL @I33@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:19
+0 @NF11@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361796#
+1 CONC 361796,70553269
+0 @F12@ FAM
+1 HUSB @I31@
+1 WIFE @I32@
+1 MARR
+1 CHIL @I45@
+1 CHIL @I34@
+1 CHIL @I26@
+1 CHIL @I43@
+1 CHIL @I44@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:25
+0 @F13@ FAM
+1 HUSB @I35@
+1 WIFE @I36@
+1 _MARRIED N
+1 CHIL @I31@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:10
+0 @F14@ FAM
+1 HUSB @I37@
+1 MARR
+1 CHIL @I36@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:10
+0 @F15@ FAM
+1 HUSB @I38@
+1 WIFE @I36@
+1 _MARRIED N
+1 CHIL @I39@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 12:26
+0 @F16@ FAM
+1 HUSB @I40@
+1 WIFE @I36@
+1 MARR
+1 CHIL @I41@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 14:08
+0 @F17@ FAM
+1 WIFE @I42@
+1 MARR
+1 CHIL @I40@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 14:11
+0 @F18@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 MARR
+1 CHIL @I27@
+1 CHIL @I56@
+1 CHIL @I55@
+1 CHIL @I70@
+1 CHIL @I71@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:27
+0 @F19@ FAM
+1 HUSB @I48@
+1 WIFE @I49@
+1 MARR
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I47@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 16:33
+0 @F20@ FAM
+1 HUSB @I46@
+1 WIFE @I57@
+1 MARR
+2 DATE 2 Jul 1824
+2 PLAC Østerbølle, Rinds, Viborg
+2 NOTE @NF20@
+1 CHIL @I63@
+1 CHIL @I64@
+1 CHIL @I66@
+1 CHIL @I65@
+1 CHIL @I67@
+1 CHIL @I68@
+1 CHIL @I69@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:00
+0 @NF20@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361796#
+1 CONC 361796,70553264.
+1 CONT He is a widower.
+0 @F21@ FAM
+1 HUSB @I58@
+1 WIFE @I59@
+1 MARR
+2 DATE Abt 1774
+1 CHIL @I60@
+1 CHIL @I46@
+1 CHIL @I61@
+1 CHIL @I62@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 17:04
+0 @F22@ FAM
+1 HUSB @I72@
+1 WIFE @I73@
+1 MARR
+2 DATE Abt 1788
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHIL @I74@
+1 CHIL @I75@
+1 CHIL @I76@
+1 CHIL @I57@
+1 CHIL @I77@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:09
+0 @F23@ FAM
+1 HUSB @I78@
+1 WIFE @I79@
+1 MARR
+2 DATE Abt 1760
+2 PLAC Østerbølle, Rinds, Viborg
+1 CHIL @I81@
+1 CHIL @I72@
+1 CHIL @I80@
+1 CHAN
+2 DATE 9 Jul 2021
+3 TIME 18:14
+0 @F24@ FAM
+1 HUSB @I4@
+1 WIFE @I82@
+1 MARR
+2 DATE 23 Apr 1924
+2 PLAC Randers, Støvring, Randers
+2 NOTE @NF24@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:04
+0 @NF24@ NOTE
+1 CONC Civil marriage, https://www.myheritage.dk/research/collecti
+1 CONC on-30302/danmark-borgelige-vielser-1851-1961?itemId=34860-&
+1 CONC action=showRecord&recordTitle=Hugo+Louis+Christian+Otto+Mik
+1 CONC ling+Bech+%26+Ane+Dagny+Andersen
+0 @F25@ FAM
+1 HUSB @I83@
+1 WIFE @I84@
+1 MARR
+1 CHIL @I82@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:07
+0 @F26@ FAM
+1 HUSB @I85@
+1 WIFE @I86@
+1 MARR
+1 CHIL @I99@
+1 CHIL @I100@
+1 CHIL @I83@
+1 CHIL @I101@
+1 CHIL @I102@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:26
+0 @F27@ FAM
+1 HUSB @I87@
+1 WIFE @I88@
+1 MARR
+1 CHIL @I89@
+1 CHIL @I90@
+1 CHIL @I86@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:37
+0 @F28@ FAM
+1 HUSB @I91@
+1 WIFE @I92@
+1 MARR
+1 CHIL @I88@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 14:54
+0 @F29@ FAM
+1 HUSB @I93@
+1 WIFE @I94@
+1 MARR
+2 DATE 30 Nov 1844
+2 PLAC Solbjerg, Hellum, Aalborg
+2 NOTE @NF29@
+1 CHIL @I98@
+1 CHIL @I85@
+1 CHIL @I95@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:05
+0 @NF29@ NOTE
+1 CONC https://www.danishfamilysearch.dk/churchbook/sogn82/churchl
+1 CONC isting130231/opslag13899507.
+1 CONT He is a widower, and this is his 4th marriage.
+0 @F30@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 MARR
+1 CHIL @I94@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 15:12
+0 @F31@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 MARR
+1 CHIL @I19@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:23
+0 @F32@ FAM
+1 HUSB @I115@
+1 WIFE @I19@
+1 MARR
+2 DATE 20 May 1920
+2 PLAC Nøddebo, Holbo, Frederiksborg
+2 NOTE @NF32@
+1 CHIL @I116@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 21:33
+0 @NF32@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=154275#
+1 CONC 154275,25731389
+1 CONT
+0 @F33@ FAM
+1 HUSB @I120@
+1 WIFE @I121@
+1 MARR
+1 CHIL @I123@
+1 CHIL @I122@
+1 CHIL @I22@
+1 CHIL @I124@
+1 CHIL @I125@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 22:54
+0 @F34@ FAM
+1 HUSB @I127@
+1 WIFE @I128@
+1 MARR
+1 CHIL @I129@
+1 CHIL @I130@
+1 CHIL @I23@
+1 CHIL @I131@
+1 CHAN
+2 DATE 11 Jul 2021
+3 TIME 23:22
+0 @F35@ FAM
+1 HUSB @I132@
+1 WIFE @I133@
+1 MARR
+2 DATE 25 Apr 1874
+2 PLAC Sall, Houlbjerg, Viborg
+2 NOTE @NF35@
+1 CHIL @I5@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:48
+0 @NF35@ NOTE
+1 CONC It is the second marriage for both of them.
+1 CONT At the time of the marriage they are staying in Ajstrup, wh
+1 CONC ich could be either Ajstrup, Vindblæs, Gjerlev, Randers,
+1 CONT Ajstrup, Kobberup, Fjends, Viborg,
+1 CONT Ajstrup, Malling, Ning, Aarhus or
+1 CONT Ajstrup, Kær, Aalborg.
+1 CONT https://www.ancestry.com/imageviewer/collections/61607/imag
+1 CONC es/48492_62021000435_16225-00145?usePUB=true&pId=608158636
+1 CONT
+0 @F36@ FAM
+1 HUSB @I134@
+1 WIFE @I135@
+1 MARR
+2 DATE 1 Apr 1834
+2 PLAC Faarup, Sabro, Aarhus
+2 NOTE @NF36@
+1 CHIL @I132@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:42
+0 @NF36@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=392116#
+1 CONC 392116,74296954
+0 @F37@ FAM
+1 HUSB @I139@
+1 WIFE @I140@
+1 MARR
+2 DATE 24 May 1833
+2 PLAC Søllerød, Sokkelund, København
+2 NOTE @NF37@
+1 CHIL @I133@
+1 CHIL @I141@
+1 CHIL @I143@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 11:46
+0 @NF37@ NOTE
+1 CONC https://www.ancestry.com/imageviewer/collections/61607/imag
+1 CONC es/48603_62021000438_2665-00578?treeid=&personid=&usePUB=tr
+1 CONC ue&_phsrc=CmA1&_phstart=successSource&pId=7287214
+0 @F38@ FAM
+1 HUSB @I142@
+1 MARR
+1 CHIL @I139@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 11:54
+0 @F39@ FAM
+1 HUSB @I144@
+1 WIFE @I143@
+1 MARR
+1 CHIL @I145@
+1 CHIL @I146@
+1 CHIL @I147@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:02
+0 @F40@ FAM
+1 HUSB @I148@
+1 WIFE @I149@
+1 MARR
+1 CHIL @I140@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:20
+0 @F41@ FAM
+1 HUSB @I132@
+1 WIFE @I150@
+1 MARR
+1 CHIL @I138@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 12:48
+0 @F42@ FAM
+1 WIFE @I151@
+1 MARR
+1 CHIL @I134@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:15
+0 @F43@ FAM
+1 HUSB @I136@
+1 WIFE @I137@
+1 MARR
+1 CHIL @I135@
+1 CHIL @I152@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 14:23
+0 @F44@ FAM
+1 HUSB @I160@
+1 WIFE @I161@
+1 MARR
+2 DATE Abt 1787
+2 PLAC Borbjerg, Hjerm, Ringkøbing
+1 CHIL @I156@
+1 CHIL @I162@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:31
+0 @F45@ FAM
+1 HUSB @I158@
+1 WIFE @I157@
+1 _MARRIED N
+1 CHIL @I12@
+1 CHIL @I159@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 15:59
+0 @F46@ FAM
+1 HUSB @I155@
+1 WIFE @I156@
+1 MARR
+1 CHIL @I157@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:00
+0 @F47@ FAM
+1 HUSB @I164@
+1 WIFE @I163@
+1 MARR
+1 CHIL @I160@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 16:40
+0 @F48@ FAM
+1 HUSB @I165@
+1 WIFE @I166@
+1 MARR
+2 DATE 12 Jun 1829
+2 PLAC Vium, Lysgaard, Viborg
+2 NOTE @NF48@
+1 CHIL @I167@
+1 CHIL @I168@
+1 CHIL @I169@
+1 CHIL @I170@
+1 CHIL @I13@
+1 CHIL @I171@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 17:23
+0 @NF48@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=363927#
+1 CONC 363927,70599508
+0 @F49@ FAM
+1 HUSB @I172@
+1 WIFE @I173@
+1 MARR
+2 DATE 29 Dec 1853
+2 PLAC Fjelsø, Rinds, Viborg
+2 NOTE @NF49@
+1 CHIL @I174@
+1 CHIL @I21@
+1 CHIL @I187@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:33
+0 @NF49@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361889#
+1 CONC 361889,70555230
+0 @F50@ FAM
+1 HUSB @I175@
+1 WIFE @I188@
+1 MARR
+2 DATE Abt 1826
+2 PLAC Fjelsø, Rinds, Viborg
+1 CHIL @I173@
+1 CHIL @I189@
+1 CHIL @I190@
+1 CHIL @I191@
+1 CHIL @I192@
+1 CHIL @I193@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:57
+0 @F51@ FAM
+1 HUSB @I176@
+1 WIFE @I177@
+1 MARR
+1 CHIL @I172@
+1 CHIL @I178@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 20:53
+0 @F52@ FAM
+1 HUSB @I179@
+1 WIFE @I180@
+1 MARR
+2 DATE Abt 1767
+2 PLAC Hvornum, Onsild, Randers
+1 CHIL @I181@
+1 CHIL @I182@
+1 CHIL @I183@
+1 CHIL @I184@
+1 CHIL @I185@
+1 CHIL @I177@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:46
+0 @F53@ FAM
+1 HUSB @I182@
+1 WIFE @I186@
+1 MARR
+2 DATE Abt 1800
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 21:49
+0 @F54@ FAM
+1 HUSB @I194@
+1 WIFE @I195@
+1 MARR
+2 DATE Abt 1794
+1 CHIL @I196@
+1 CHIL @I197@
+1 CHIL @I198@
+1 CHIL @I199@
+1 CHIL @I188@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:05
+0 @F55@ FAM
+1 HUSB @I194@
+1 WIFE @I200@
+1 MARR
+2 DATE 23 Nov 1827
+2 PLAC Fjelsø, Rinds, Viborg
+2 NOTE @NF55@
+1 CHIL @I201@
+1 CHIL @I203@
+1 CHIL @I202@
+1 CHIL @I204@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:11
+0 @NF55@ NOTE
+1 CONC https://www.sa.dk/ao-soegesider/da/billedviser?bsid=361881#
+1 CONC 361881,70555020
+0 @F56@ FAM
+1 HUSB @I205@
+1 WIFE @I200@
+1 MARR
+2 DATE Abt 1841
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:33
+0 @F57@ FAM
+1 HUSB @I206@
+1 WIFE @I207@
+1 MARR
+2 DATE Abt 1788
+1 CHIL @I200@
+1 CHAN
+2 DATE 12 Jul 2021
+3 TIME 22:36
+0 TRLR
